@@ -53,18 +53,18 @@ ls -l ${dot_torrents_dir} |grep -v "total"| cut -c51-1000|while read torrent; do
    torrent_dir_name=`/torrent_dir_name.py "${dot_torrents_dir}/${torrent}"`
    if [ -z "${torrent_dir_name}" ] ; then
       log_and_echo "No DIR_DATA found in ${torrent}"
-      if [[ ${move_torrent} -eq 1 ]]; then; move_torrent "${torrent}"; fi
+      if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
    else
       old_dir_name=`find /usb/torrents/download/old -maxdepth 1 -name "${torrent_dir_name}"`
       if [ -z "$old_dir_name" ]; then
          log_and_echo "$old_dir_name was not found -  ${torrent}"
-         if [[ ${move_torrent} -eq 1 ]]; then; move_torrent "${torrent}"; fi
+         if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
       else
          log_and_echo "mv \"${old_dir_name}\" /usb/torrents/download/"
          mv "${old_dir_name}" /usb/torrents/download/
          log_and_echo "cp \"${dot_torrents_dir}/${torrent}\" /usb/torrents/watch"
          cp "${dot_torrents_dir}/${torrent}" /usb/torrents/watch
-         if [[ ${move_torrent} -eq 1 ]]; then; move_torrent "${torrent}"; fi
+         if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
          filecount=$(($filecount+1))
          if [[ ${filecount} -eq ${max_per_internal} ]]; then
             torrentcount=$(($torrentcount+1))
