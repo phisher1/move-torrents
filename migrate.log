@@ -1,0 +1,406 @@
+2017-08-09 18:49 - rsync -av --progress "/usb/torrents/download/old//usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:49 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 18:50 - rsync -av --progress "/usb/torrents/download/old//usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:50 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 18:50 - rsync -av --progress "/usb/torrents/download/old//usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:50 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:51 - rsync -av --progress "/usb/torrents/download/old//usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:51 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 18:51 - rsync -av --progress "/usb/torrents/download/old//usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:51 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:51 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 18:51 - rsync -av --progress "/usb/torrents/download/old//usb/torrents/download/old/11.22.63.S01E07.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:51 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E07.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:51 - rsync -av --progress "/usb/torrents/download/old//usb/torrents/download/old/12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 18:51 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:53 - rsync -av --progress "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:53 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 18:53 - rsync -av --progress "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:53 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 18:53 - rsync -av --progress "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:53 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:53 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 18:53 - rsync -av --progress "/usb/torrents/download/old/11.22.63.S01E07.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:53 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E07.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:53 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 18:53 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:53 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 18:53 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:53 - No DATA found in 12 Monkeys S01E11 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 18:53 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 18:53 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:54 - mv "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:54 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 18:54 - mv "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:54 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:54 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 18:54 - mv "/usb/torrents/download/old/11.22.63.S01E07.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:54 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E07.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:54 - mv "/usb/torrents/download/old/12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 18:54 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:54 - mv "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 18:54 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:54 - No DATA found in 12 Monkeys S01E11 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 18:54 - mv "/usb/torrents/download/old/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 18:54 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:54 - mv "/usb/torrents/download/old/12.Monkeys.S01E11.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 18:54 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E11.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:55 - mv "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:55 - rsync -av --progress "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:55 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 18:55 - mv "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:55 - rsync -av --progress "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:55 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:55 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 18:55 - mv "/usb/torrents/download/old/11.22.63.S01E07.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:55 - rsync -av --progress "/usb/torrents/download/old/11.22.63.S01E07.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:55 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E07.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:55 - mv "/usb/torrents/download/old/12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 18:55 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 18:55 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:55 - mv "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 18:55 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 18:55 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:55 - No DATA found in 12 Monkeys S01E11 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 18:55 - mv "/usb/torrents/download/old/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 18:55 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 18:55 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:59 - mv "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:59 - rsync -av --progress "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:59 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 18:59 - mv "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:59 - rsync -av --progress "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:59 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 18:59 - mv "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:59 - rsync -av --progress "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:59 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:59 - mv "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:59 - rsync -av --progress "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 18:59 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 18:59 - mv "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:59 - rsync -av --progress "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 18:59 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 18:59 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 18:59 - No DIR found for 11.22.63.S01E07.720p.HDTV.X264-DIMENSION [IPT].torrent
+2017-08-09 19:00 - mv "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 19:00 - rsync -av --progress "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 19:00 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 19:00 - mv "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:00 - rsync -av --progress "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:00 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:00 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 19:00 - No DIR found for 11.22.63.S01E07.720p.HDTV.X264-DIMENSION [IPT].torrent
+2017-08-09 19:00 - No DIR found for 12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE [IPT].torrent
+2017-08-09 19:00 - mv "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 19:00 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 19:00 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:00 - No DATA found in 12 Monkeys S01E11 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 19:00 - mv "/usb/torrents/download/old/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 19:00 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 19:00 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:00 - mv "/usb/torrents/download/old/12.Monkeys.S01E11.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 19:00 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E11.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 19:00 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E11.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:00 - mv "/usb/torrents/download/old/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:00 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:00 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - Starting Script
+2017-08-09 19:02 - mv "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/06 - Once In A Blue Moon" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/06%20-%20Once%20In%20A%20Blue%20Moon.torrent" /usb/torrents/watch
+2017-08-09 19:02 - mv "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/11.22.63.S01E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/11.22.63.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 19:02 - No DIR found for 11.22.63.S01E07.720p.HDTV.X264-DIMENSION [IPT].torrent
+2017-08-09 19:02 - No DIR found for 12.Monkeys.S01E10.720p.HDTV.x264-IMMERSE [IPT].torrent
+2017-08-09 19:02 - mv "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - No DATA found in 12 Monkeys S01E11 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 19:02 - mv "/usb/torrents/download/old/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E11.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - No DIR found for 12.Monkeys.S01E11.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent
+2017-08-09 19:02 - mv "/usb/torrents/download/old/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - mv "/usb/torrents/download/old/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - mv "/usb/torrents/download/old/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - mv "/usb/torrents/download/old/12.Monkeys.S02E05.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S02E05.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E05.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - mv "/usb/torrents/download/old/12.Monkeys.S02E06.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S02E06.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E06.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - mv "/usb/torrents/download/old/12.Monkeys.S03E01.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S03E01.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S03E01.720p.HDTV.x264-SVA [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - mv "/usb/torrents/download/old/12.Monkeys.S03E09.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/12.Monkeys.S03E09.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S03E09.720p.HDTV.x264-SVA [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - No DATA found in 2017-07-05-raspbian-jessie-lite.zip.torrent
+2017-08-09 19:02 - No DATA found in 2.Broke.Girls.S04E15.And.the.Fat.Cat.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:02 - No DATA found in 2.Broke.Girls.S04E16.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:02 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E16.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/2.Broke.Girls.S04E16.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E16.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - No DATA found in 2.Broke.Girls.S04E17.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:02 - No DATA found in 2 Broke Girls S04E17 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 19:02 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E17.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/2.Broke.Girls.S04E17.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E17.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:02 - No DATA found in 2.Broke.Girls.S04E17.And.the.High.Hook-Up.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:02 - No DATA found in 2.Broke.Girls.S04E18.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:02 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E18.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:02 - rsync -av --progress "/usb/torrents/download/old/2.Broke.Girls.S04E18.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:02 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E18.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:05 - Starting Script
+2017-08-09 19:05 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 19:05 - mv "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 19:05 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:05 - No DATA found in 12 Monkeys S01E11 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 19:05 - mv "/usb/torrents/download/old/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:05 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:06 - Starting Script
+2017-08-09 19:06 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 19:06 - mv "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 19:06 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:06 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:06 - No DATA found in 12 Monkeys S01E11 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 19:06 - mv "/usb/torrents/download/old/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:06 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:06 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:06 - mv "/usb/torrents/download/old/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 19:06 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:06 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:06 - mv "/usb/torrents/download/old/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:06 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:06 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:06 - mv "/usb/torrents/download/old/12.Monkeys.S02E05.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 19:06 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E05.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:06 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S02E05.720p.HDTV.x264-AVS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:06 - mv "/usb/torrents/download/old/12.Monkeys.S02E06.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 19:06 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E06.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:06 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S02E06.720p.HDTV.x264-FLEET [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:06 - mv "/usb/torrents/download/old/12.Monkeys.S03E01.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-09 19:06 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S03E01.720p.HDTV.x264-SVA [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:06 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S03E01.720p.HDTV.x264-SVA [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:06 - mv "/usb/torrents/download/old/12.Monkeys.S03E09.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-09 19:06 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S03E09.720p.HDTV.x264-SVA [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:06 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S03E09.720p.HDTV.x264-SVA [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:06 - No DATA found in 2017-07-05-raspbian-jessie-lite.zip.torrent
+2017-08-09 19:06 - No DATA found in 2.Broke.Girls.S04E15.And.the.Fat.Cat.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:06 - No DATA found in 2.Broke.Girls.S04E16.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:06 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E16.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:06 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E16.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:06 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E16.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - Starting Script
+2017-08-09 19:08 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 19:08 - mv "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - No DATA found in 12 Monkeys S01E11 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 19:08 - mv "/usb/torrents/download/old/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/12.Monkeys.S02E05.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E05.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S02E05.720p.HDTV.x264-AVS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/12.Monkeys.S02E06.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E06.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S02E06.720p.HDTV.x264-FLEET [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/12.Monkeys.S03E01.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S03E01.720p.HDTV.x264-SVA [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S03E01.720p.HDTV.x264-SVA [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/12.Monkeys.S03E09.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S03E09.720p.HDTV.x264-SVA [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S03E09.720p.HDTV.x264-SVA [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - No DATA found in 2017-07-05-raspbian-jessie-lite.zip.torrent
+2017-08-09 19:08 - No DATA found in 2.Broke.Girls.S04E15.And.the.Fat.Cat.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:08 - No DATA found in 2.Broke.Girls.S04E16.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:08 - No DATA found in 2.Broke.Girls.S04E17.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:08 - No DATA found in 2 Broke Girls S04E17 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 19:08 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E17.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E17.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E17.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - No DATA found in 2.Broke.Girls.S04E17.And.the.High.Hook-Up.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:08 - No DATA found in 2.Broke.Girls.S04E18.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:08 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E18.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E18.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E18.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - No DATA found in 2.Broke.Girls.S04E18.And.the.Taste.Test.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:08 - No DATA found in 2.Broke.Girls.S04E19.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:08 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E19.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E19.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E19.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - No DATA found in 2.Broke.Girls.S04E19.And.the.Look.of.the.Irish.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:08 - No DATA found in 2.Broke.Girls.S04E20.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:08 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E20.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E20.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E20.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/2.Broke.Girls.S05E04.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S05E04.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S05E04.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/2.Broke.Girls.S05E14.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S05E14.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S05E14.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E03.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E03.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E03.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E04.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E04.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E04.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:08 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E06.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:08 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E06.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:08 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E06.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+----------
+starting now
+2017-08-09 19:12 - Starting Script
+2017-08-09 19:12 - No DATA found in 11.22.63.S01E06.720p.HULU.WEBRip.AAC2.0.H.264-TOPKEK.mkv [IPT].torrent
+2017-08-09 19:12 - mv "/usb/torrents/download/old/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S01E10.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - No DATA found in 12 Monkeys S01E11 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 19:12 - mv "/usb/torrents/download/old/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S01E13.720p.HDTV.x264-IMMERSE [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S02E03.720p.HDTV.x264-KILLERS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/12.Monkeys.S02E05.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E05.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S02E05.720p.HDTV.x264-AVS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/12.Monkeys.S02E06.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S02E06.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S02E06.720p.HDTV.x264-FLEET [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/12.Monkeys.S03E01.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S03E01.720p.HDTV.x264-SVA [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S03E01.720p.HDTV.x264-SVA [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/12.Monkeys.S03E09.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/12.Monkeys.S03E09.720p.HDTV.x264-SVA [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/12.Monkeys.S03E09.720p.HDTV.x264-SVA [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - No DATA found in 2017-07-05-raspbian-jessie-lite.zip.torrent
+2017-08-09 19:12 - No DATA found in 2.Broke.Girls.S04E15.And.the.Fat.Cat.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:12 - No DATA found in 2.Broke.Girls.S04E16.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:12 - No DATA found in 2.Broke.Girls.S04E17.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:12 - No DATA found in 2 Broke Girls S04E17 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E17.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E17.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E17.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - No DATA found in 2.Broke.Girls.S04E17.And.the.High.Hook-Up.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:12 - No DATA found in 2.Broke.Girls.S04E18.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E18.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E18.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E18.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - No DATA found in 2.Broke.Girls.S04E18.And.the.Taste.Test.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:12 - No DATA found in 2.Broke.Girls.S04E19.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E19.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E19.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E19.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - No DATA found in 2.Broke.Girls.S04E19.And.the.Look.of.the.Irish.720p.HDTV.DD5.1.x264-CtrlHD [IPT].torrent
+2017-08-09 19:12 - No DATA found in 2.Broke.Girls.S04E20.1080i.HDTV.DD5.1.MPEG2-TOPKEK [IPT].torrent
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S04E20.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E20.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S04E20.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S05E04.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S05E04.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S05E04.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S05E14.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S05E14.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S05E14.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E03.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E03.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E03.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E04.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E04.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E04.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E05.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E05.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E07.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E07.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E07.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E08.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E08.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E08.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 19:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E09.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 19:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E09.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 19:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E09.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E10.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E10.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E10.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/2.Broke.Girls.S06E12.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E12.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/2.Broke.Girls.S06E12.720p.HDTV.X264-DIMENSION [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/Alice Through the Looking Glass 2016 720p HD-TC DiGiTaL AUDiO x264-CPG" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/Alice Through the Looking Glass 2016 720p HD-TC DiGiTaL AUDiO x264-CPG [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/Alice Through the Looking Glass 2016 720p HD-TC DiGiTaL AUDiO x264-CPG [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/Alice Through the Looking Glass 2016 720P HDTC X264 AC3 TiTAN" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/Alice Through the Looking Glass 2016 720P HDTC X264 AC3 TiTAN [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/Alice Through the Looking Glass 2016 720P HDTC X264 AC3 TiTAN [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/Alice.Through.The.Looking.Glass.2016.HDCam.XviD-JbOi (Read Description)" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/Alice.Through.The.Looking.Glass.2016.HDCam.XviD-JbOi (Read Description) [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/Alice.Through.The.Looking.Glass.2016.HDCam.XviD-JbOi (Read Description) [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/Alice.Through.the.Looking.Glass.2016.HDTC.XviD-JbOi" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.HDTC.XviD-JbOi [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.HDTC.XviD-JbOi [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/Alice.Through.the.Looking.Glass.2016.TC.720P.X264.AAC.English.CHS.Mp4Ba" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.TC.720P.X264.AAC.English.CHS.Mp4Ba [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.TC.720P.X264.AAC.English.CHS.Mp4Ba [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/Alice.Through.the.Looking.Glass.2016.TC720P.x264.AC3-Garmin" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.TC720P.x264.AC3-Garmin [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.TC720P.x264.AC3-Garmin [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/Alice.Through.the.Looking.Glass.2016.TC.720.X264.AC3.DrunkinRG" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.TC.720.X264.AC3.DrunkinRG [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.TC.720.X264.AC3.DrunkinRG [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - No DATA found in Alice.Through.the.Looking.Glass.2016.TC.mp4 [IPT].torrent
+2017-08-09 20:12 - mv "/usb/torrents/download/old/Alice.Through.the.Looking.Glass.2016.TC.PROPER.x264-TOPKEK" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.TC.PROPER.x264-TOPKEK [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.TC.PROPER.x264-TOPKEK [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/Alice.Through.the.Looking.Glass.2016.Unmarked.720P.TC.x264.Hive-CM8" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.Unmarked.720P.TC.x264.Hive-CM8 [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.Unmarked.720P.TC.x264.Hive-CM8 [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/Alice.Through.the.Looking.Glass.2016.Unmarked.TC.XVID.AC3.HQ.Hive-CM8" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.Unmarked.TC.XVID.AC3.HQ.Hive-CM8 [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/Alice.Through.the.Looking.Glass.2016.Unmarked.TC.XVID.AC3.HQ.Hive-CM8 [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/American.Crime.S03E01.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/American.Crime.S03E01.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/American.Crime.S03E01.720p.HDTV.x264-AVS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/American.Crime.S03E01.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/American.Crime.S03E01.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/American.Crime.S03E01.720p.HEVC.x265-MeGusta [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/American.Crime.S03E02.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/American.Crime.S03E02.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/American.Crime.S03E02.720p.HDTV.x264-AVS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/American.Crime.S03E02.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/American.Crime.S03E02.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/American.Crime.S03E02.720p.HEVC.x265-MeGusta [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/American.Crime.S03E03.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/American.Crime.S03E03.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/American.Crime.S03E03.720p.HDTV.x264-FLEET [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/American.Crime.S03E03.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/American.Crime.S03E03.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/American.Crime.S03E03.720p.HEVC.x265-MeGusta [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/American.Crime.S03E04.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/American.Crime.S03E04.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/American.Crime.S03E04.720p.HDTV.x264-KILLERS [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 20:12 - mv "/usb/torrents/download/old/American.Crime.S03E04.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-09 20:12 - cp "/usb/torrents/.dot.torrents/American.Crime.S03E04.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-09 20:12 - mv "/usb/torrents/.dot.torrents/American.Crime.S03E04.720p.HEVC.x265-MeGusta [IPT].torrent" /home/dcorrigan/torrent-migrate/migrated.dot.torrents
