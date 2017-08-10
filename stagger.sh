@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 
 # set these variables
 
@@ -9,15 +9,15 @@ dot_torrents_dir="/usb/torrents/.dot.torrents"
 download_dir="/usr/torrents/download"
 
 # maximum number of torrents to add per the interval
-max_per_interval=20
+max_per_interval=10
 
 # internal at which it should add the above number of torrents in seconds
-interval=3600
+interval=600
 
 # logfile
 log_file=migrate.log
 
-# move torrent from original directory after adding to watch? 
+# move torrent from original directory after adding to watch?
 move_torrent=1
 
 # if move_torrent is enabled, directory to move torrent file to
