@@ -5,22 +5,25 @@
 # location of dir with .torrents
 dot_torrents_dir="/usb/torrents/.dot.torrents"
 
+# location of watch dir
+watch_dir="/usb/torrents/watch"
+
 # location of download dir of torrent program
-download_dir="/usr/torrents/download"
+download_dir="/usb/torrents/download"
 
 # maximum number of torrents to add per the interval
 max_per_interval=10
 
 # internal at which it should add the above number of torrents in seconds
-interval=600
+interval=300
 
 # logfile
 log_file=migrate.log
 
-# move torrent from original directory after adding to watch?
+# move .torrent from original directory after adding to watch?
 move_torrent=1
 
-# if move_torrent is enabled, directory to move torrent file to
+# if move_torrent is enabled, directory to move .torrent file to
 move_torrent_dir=/home/dcorrigan/torrent-migrate/migrated.dot.torrents
 
 
@@ -41,8 +44,8 @@ log_and_echo () {
 # move torrent after copying to watch folder
 move_torrent () {
    torrent=$1
+   log_and_echo "Moving \"${dot_torrents_dir}/$torrent\" to ${move_torrent_dir}"
    mv "${dot_torrents_dir}/$torrent" ${move_torrent_dir}
-   log_and_echo "Moved \"${dot_torrents_dir}/$torrent\" to ${move_torrent_dir}"
 }
 
 ## script
@@ -55,15 +58,15 @@ ls -l ${dot_torrents_dir} |grep -v "total"| cut -c51-1000|while read torrent; do
       log_and_echo "No DIR_DATA found in ${torrent}"
       if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
    else
-      old_dir_name=`find /usb/torrents/download/old -maxdepth 1 -name "${torrent_dir_name}"`
+      old_dir_name=`find ${download_dir}/old -maxdepth 1 -name "${torrent_dir_name}"`
       if [ -z "$old_dir_name" ]; then
          log_and_echo "$old_dir_name was not found -  ${torrent}"
          if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
       else
-         log_and_echo "mv \"${old_dir_name}\" /usb/torrents/download/"
-         mv "${old_dir_name}" /usb/torrents/download/
-         log_and_echo "cp \"${dot_torrents_dir}/${torrent}\" /usb/torrents/watch"
-         cp "${dot_torrents_dir}/${torrent}" /usb/torrents/watch
+         log_and_echo "Moving \"${old_dir_name}\" to ${download_dir}/"
+         mv "${old_dir_name}" ${download_dir}/
+         log_and_echo "Copying \"${dot_torrents_dir}/${torrent}\" to ${watch_dir}"
+         cp "${dot_torrents_dir}/${torrent}" ${watch_dir}
          if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
          filecount=$(($filecount+1))
          if [[ ${filecount} -eq ${max_per_interval} ]]; then

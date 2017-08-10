@@ -1030,3 +1030,988 @@
 2017-08-10 15:41 - cp "/usb/torrents/.dot.torrents/Ghostbusters.2016.TS.XviD-BiGDADDYVAiN [IPT].torrent" /usb/torrents/watch
 2017-08-10 15:41 - Moved "/usb/torrents/.dot.torrents/Ghostbusters.2016.TS.XviD-BiGDADDYVAiN [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
 2017-08-10 15:41 - Sleeping now.. Max torrents per interval added. (10 per 600 seconds)
+2017-08-10 15:46 - Starting Script
+2017-08-10 15:46 - mv "/usb/torrents/download/old/Gold.Rush-Parkers.Trail.Part.1.Footsteps.of.Legends.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:46 - cp "/usb/torrents/.dot.torrents/Gold.Rush-Parkers.Trail.Part.1.Footsteps.of.Legends.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:46 - Moved "/usb/torrents/.dot.torrents/Gold.Rush-Parkers.Trail.Part.1.Footsteps.of.Legends.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:46 - mv "/usb/torrents/download/old/Gold.Rush-Parkers.Trail.Part.2.Racing.the.Freeze.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 15:46 - cp "/usb/torrents/.dot.torrents/Gold.Rush-Parkers.Trail.Part.2.Racing.the.Freeze.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:46 - Moved "/usb/torrents/.dot.torrents/Gold.Rush-Parkers.Trail.Part.2.Racing.the.Freeze.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:46 - mv "/usb/torrents/download/old/Gold.Rush-Parkers.Trail.Part.3.Hypothermia.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 15:46 - cp "/usb/torrents/.dot.torrents/Gold.Rush-Parkers.Trail.Part.3.Hypothermia.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:46 - Moved "/usb/torrents/.dot.torrents/Gold.Rush-Parkers.Trail.Part.3.Hypothermia.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:46 - mv "/usb/torrents/download/old/Gold.Rush.S07E00.Before.The.Trail.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:46 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Before.The.Trail.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:46 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Before.The.Trail.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:46 - mv "/usb/torrents/download/old/Gold.Rush.S07E00.Before.The.Trail.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 15:46 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Before.The.Trail.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:46 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Before.The.Trail.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:46 - mv "/usb/torrents/download/old/Gold.Rush.S07E00.Before.The.Trail.720p.WEBRip.x264-WEBSTER" /usb/torrents/download/
+2017-08-10 15:46 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Before.The.Trail.720p.WEBRip.x264-WEBSTER [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:46 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Before.The.Trail.720p.WEBRip.x264-WEBSTER [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:46 - mv "/usb/torrents/download/old/Gold.Rush.S07E00.Parkers.Trail.Footsteps.Of.Legends.CONVERT.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 15:46 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Parkers.Trail.Footsteps.Of.Legends.CONVERT.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:46 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Parkers.Trail.Footsteps.Of.Legends.CONVERT.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:46 - mv "/usb/torrents/download/old/Gold.Rush.S07E00.Parkers.Trail.Footsteps.Of.Legends.CONVERT.720p.WEB.x264-WEBSTER" /usb/torrents/download/
+2017-08-10 15:46 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Parkers.Trail.Footsteps.Of.Legends.CONVERT.720p.WEB.x264-WEBSTER [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:46 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Parkers.Trail.Footsteps.Of.Legends.CONVERT.720p.WEB.x264-WEBSTER [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:46 - mv "/usb/torrents/download/old/Gold.Rush.S07E00.Parkers.Trail.Racing.The.Freeze.CONVERT.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 15:46 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Parkers.Trail.Racing.The.Freeze.CONVERT.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:46 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.Parkers.Trail.Racing.The.Freeze.CONVERT.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:46 - mv "/usb/torrents/download/old/Gold.Rush.S07E00.War.and.Peace.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:46 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.War.and.Peace.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:46 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.War.and.Peace.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:46 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 15:51 - mv "/usb/torrents/download/old/Gold.Rush.S07E00.War.and.Peace.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 15:51 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.War.and.Peace.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:51 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E00.War.and.Peace.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:51 - mv "/usb/torrents/download/old/Gold.Rush.S07E07.Watery.Grave.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:51 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E07.Watery.Grave.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:51 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E07.Watery.Grave.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:51 - mv "/usb/torrents/download/old/Gold.Rush.S07E08.Mega.Barge.and.Kid.Commando.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:51 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E08.Mega.Barge.and.Kid.Commando.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:51 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E08.Mega.Barge.and.Kid.Commando.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:51 - mv "/usb/torrents/download/old/Gold.Rush.S07E09.Record.Gold.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:51 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E09.Record.Gold.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:51 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E09.Record.Gold.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:51 - mv "/usb/torrents/download/old/Gold.Rush.S07E11.Game.Over.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:51 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E11.Game.Over.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:51 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E11.Game.Over.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:51 - mv "/usb/torrents/download/old/Gold.Rush.S07E12.Abandonment.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:51 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E12.Abandonment.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:51 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E12.Abandonment.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:51 - mv "/usb/torrents/download/old/Gold.Rush.S07E13.Lifeline.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:51 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E13.Lifeline.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:51 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E13.Lifeline.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:51 - mv "/usb/torrents/download/old/Gold.Rush.S07E14.Parker.vs.Rick.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:51 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E14.Parker.vs.Rick.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:51 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E14.Parker.vs.Rick.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:51 - mv "/usb/torrents/download/old/Gold.Rush.S07E15.Excavator.Down.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:51 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E15.Excavator.Down.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:51 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E15.Excavator.Down.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:51 - mv "/usb/torrents/download/old/Gold.Rush.S07E16.Double.Trouble.720p.HDTV.x264-CRiMSON" /usb/torrents/download/
+2017-08-10 15:51 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E16.Double.Trouble.720p.HDTV.x264-CRiMSON [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:51 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E16.Double.Trouble.720p.HDTV.x264-CRiMSON [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:51 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 15:56 - mv "/usb/torrents/download/old/Gold.Rush.S07E17.Cruelest.Cut.720p.HDTV.x264-CRiMSON" /usb/torrents/download/
+2017-08-10 15:56 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E17.Cruelest.Cut.720p.HDTV.x264-CRiMSON [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:56 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E17.Cruelest.Cut.720p.HDTV.x264-CRiMSON [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:56 - mv "/usb/torrents/download/old/Gold.Rush.S07E17.Cruelest.Cut.PROPER.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:56 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E17.Cruelest.Cut.PROPER.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:56 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E17.Cruelest.Cut.PROPER.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:56 - mv "/usb/torrents/download/old/Gold.Rush.S07E18.720p.WEB.x264-HEAT" /usb/torrents/download/
+2017-08-10 15:56 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E18.720p.WEB.x264-HEAT [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:56 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E18.720p.WEB.x264-HEAT [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:56 - mv "/usb/torrents/download/old/Gold.Rush.S07E18.Miners.vs.Beavers.720p.HDTV.x264-CRiMSON" /usb/torrents/download/
+2017-08-10 15:56 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E18.Miners.vs.Beavers.720p.HDTV.x264-CRiMSON [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:56 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E18.Miners.vs.Beavers.720p.HDTV.x264-CRiMSON [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:56 - mv "/usb/torrents/download/old/Gold.Rush.S07E18.Miners.vs.Beavers.PROPER.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:56 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E18.Miners.vs.Beavers.PROPER.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:56 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E18.Miners.vs.Beavers.PROPER.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:56 - mv "/usb/torrents/download/old/Gold.Rush.S07E19.720p.WEB.x264-HEAT" /usb/torrents/download/
+2017-08-10 15:56 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E19.720p.WEB.x264-HEAT [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:56 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E19.720p.WEB.x264-HEAT [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:56 - mv "/usb/torrents/download/old/Gold.Rush.S07E19.Dredge.vs.Washplant.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:56 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E19.Dredge.vs.Washplant.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:56 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E19.Dredge.vs.Washplant.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:56 - mv "/usb/torrents/download/old/Gold.Rush.S07E20.Dredge.Vs.Washplant.720p.WEB.x264-HEAT" /usb/torrents/download/
+2017-08-10 15:56 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E20.Dredge.Vs.Washplant.720p.WEB.x264-HEAT [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:56 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E20.Dredge.Vs.Washplant.720p.WEB.x264-HEAT [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:56 - mv "/usb/torrents/download/old/Gold.Rush.S07E20.Viking.Voyage.720p.HDTV.x264-W4F" /usb/torrents/download/
+2017-08-10 15:56 - cp "/usb/torrents/.dot.torrents/Gold.Rush.S07E20.Viking.Voyage.720p.HDTV.x264-W4F [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:56 - Moved "/usb/torrents/.dot.torrents/Gold.Rush.S07E20.Viking.Voyage.720p.HDTV.x264-W4F [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:56 - mv "/usb/torrents/download/old/Goliathon.1977.720p.BluRay.x264-x0r" /usb/torrents/download/
+2017-08-10 15:56 - cp "/usb/torrents/.dot.torrents/Goliathon.1977.720p.BluRay.x264-x0r [IPT].torrent" /usb/torrents/watch
+2017-08-10 15:56 - Moved "/usb/torrents/.dot.torrents/Goliathon.1977.720p.BluRay.x264-x0r [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 15:56 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:01 - mv "/usb/torrents/download/old/Goliath.S01.720p.WEBRip.X264-DEFLATE" /usb/torrents/download/
+2017-08-10 16:01 - cp "/usb/torrents/.dot.torrents/Goliath.S01.720p.WEBRip.X264-DEFLATE [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:01 - Moved "/usb/torrents/.dot.torrents/Goliath.S01.720p.WEBRip.X264-DEFLATE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:01 - mv "/usb/torrents/download/old/Greys.Anatomy.S01E02.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:01 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E02.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:01 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E02.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:01 - mv "/usb/torrents/download/old/Greys.Anatomy.S01E03.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:01 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E03.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:01 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E03.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:01 - mv "/usb/torrents/download/old/Greys.Anatomy.S01E04.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:01 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E04.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:01 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E04.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:01 - mv "/usb/torrents/download/old/Greys.Anatomy.S01E05.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:01 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E05.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:01 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E05.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:01 - mv "/usb/torrents/download/old/Greys.Anatomy.S01E07.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:01 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E07.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:01 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E07.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:01 - mv "/usb/torrents/download/old/Greys.Anatomy.S01E08.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:01 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E08.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:01 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E08.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:01 - mv "/usb/torrents/download/old/Greys.Anatomy.S01E09.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:01 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E09.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:01 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S01E09.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:01 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E00.Under.Pressure.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:01 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E00.Under.Pressure.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:01 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E00.Under.Pressure.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:01 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E06.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:01 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E06.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:01 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E06.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:01 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:06 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E09.iNTERNAL.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 16:06 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E09.iNTERNAL.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:06 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E09.iNTERNAL.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:06 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E10.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:06 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E10.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:06 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E10.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:06 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E11.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:06 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E11.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:06 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E11.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:06 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E12.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:06 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E12.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:06 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E12.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:06 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E13.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:06 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E13.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:06 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E13.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:06 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E14.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:06 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E14.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:06 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E14.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:06 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E19.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:06 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E19.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:06 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E19.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:06 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E20.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:06 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E20.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:06 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E20.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:06 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E21.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:06 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E21.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:06 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E21.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:06 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E22.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:06 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E22.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:06 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E22.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:06 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:11 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E23.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 16:11 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E23.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:11 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E23.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:11 - mv "/usb/torrents/download/old/Greys.Anatomy.S02E24.iNTERNAL.720p.HDTV.x264-REGRET" /usb/torrents/download/
+2017-08-10 16:11 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E24.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:11 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S02E24.iNTERNAL.720p.HDTV.x264-REGRET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:11 - mv "/usb/torrents/download/old/Greys.Anatomy.S11E16.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:11 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E16.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:11 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E16.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:11 - mv "/usb/torrents/download/old/Greys.Anatomy.S11E17.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:11 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E17.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:11 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E17.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:11 - mv "/usb/torrents/download/old/Greys.Anatomy.S11E18.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:11 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E18.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:11 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E18.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:11 - mv "/usb/torrents/download/old/Greys.Anatomy.S11E19.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:11 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E19.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:11 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E19.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:11 - mv "/usb/torrents/download/old/Greys.Anatomy.S11E20.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:11 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E20.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:11 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E20.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:11 - mv "/usb/torrents/download/old/Greys.Anatomy.S11E21.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:11 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E21.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:11 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E21.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:11 - mv "/usb/torrents/download/old/Greys.Anatomy.S11E22.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:11 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E22.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:11 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S11E22.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:11 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E01.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:11 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E01.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:11 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E01.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:11 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:16 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E03.PROPER.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:16 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E03.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:16 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E03.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:16 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E04.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:16 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E04.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:16 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E04.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:16 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E04.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-10 16:16 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E04.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:16 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E04.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:16 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E05.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:16 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E05.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:16 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E05.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:16 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E05.INTERNAL.720p.HDTV.x264-BATV" /usb/torrents/download/
+2017-08-10 16:16 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E05.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:16 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E05.INTERNAL.720p.HDTV.x264-BATV [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:16 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E06.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:16 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E06.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:16 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E06.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:16 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E07.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:16 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E07.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:16 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E07.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:16 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E08.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:16 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E08.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:16 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E08.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:16 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E09.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:16 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E09.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:16 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E09.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:16 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E10.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:16 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E10.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:16 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E10.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:16 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:21 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E11.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:21 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E11.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:21 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E11.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:21 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E12.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:21 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E12.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:21 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E12.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:21 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E13.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:21 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E13.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:21 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E13.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:21 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E14.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:21 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E14.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:21 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E14.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:21 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E15.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:21 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E15.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:21 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E15.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:21 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E16.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:21 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E16.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:21 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E16.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:21 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E17.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:21 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E17.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:21 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E17.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:21 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E18.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:21 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E18.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:21 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E18.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:21 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E19.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:21 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E19.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:21 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E19.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:21 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E20.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:21 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E20.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:21 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E20.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:21 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:26 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E21.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:26 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E21.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:26 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E21.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:26 - mv "/usb/torrents/download/old/Greys.Anatomy.S12E23.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:26 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E23.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:26 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S12E23.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:26 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E01.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:26 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E01.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:26 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E01.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:26 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E01.REPACK.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:26 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E01.REPACK.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:26 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E01.REPACK.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:26 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E02.720p.HDTV.x264-SVA" /usb/torrents/download/
+2017-08-10 16:26 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E02.720p.HDTV.x264-SVA [IPT](10).torrent" /usb/torrents/watch
+2017-08-10 16:26 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E02.720p.HDTV.x264-SVA [IPT](10).torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:26 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E03.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:26 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E03.720p.HDTV.x264-AVS [IPT](10).torrent" /usb/torrents/watch
+2017-08-10 16:26 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E03.720p.HDTV.x264-AVS [IPT](10).torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:26 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E04.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:26 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E04.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:26 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E04.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:26 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E04.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:26 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E04.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:26 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E04.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:26 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E05.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:26 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E05.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:26 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E05.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:26 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E06.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:26 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E06.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:26 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E06.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:26 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:31 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E07.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:31 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E07.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:31 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E07.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:31 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E08.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:31 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E08.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:31 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E08.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:31 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E09.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:31 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E09.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:31 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E09.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:31 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E10.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:31 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E10.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:31 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E10.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:31 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E11.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:31 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E11.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:31 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E11.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:31 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:31 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:31 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E12.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:31 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E13.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:31 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E13.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:31 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E13.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:31 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E14.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:31 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E14.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:31 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E14.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:31 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E15.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:31 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E15.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:31 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E15.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:31 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E16.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:31 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E16.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:31 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E16.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:31 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:36 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E16.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 16:36 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E16.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:36 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E16.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:36 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E17.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:36 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E17.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:36 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E17.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:36 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E17.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 16:36 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E17.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:36 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E17.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:36 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E19.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 16:36 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E19.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:36 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E19.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:37 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E21.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 16:37 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E21.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:37 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E21.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:37 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E22.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 16:37 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E22.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:37 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E22.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:37 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E23.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 16:37 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E23.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:37 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E23.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:37 - mv "/usb/torrents/download/old/Greys Anatomy S13E24 720p HDTV HEVC x265-RMTeam (229MB)" /usb/torrents/download/
+2017-08-10 16:37 - cp "/usb/torrents/.dot.torrents/Greys Anatomy S13E24 720p HDTV HEVC x265-RMTeam (229MB) [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:37 - Moved "/usb/torrents/.dot.torrents/Greys Anatomy S13E24 720p HDTV HEVC x265-RMTeam (229MB) [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:37 - mv "/usb/torrents/download/old/Greys.Anatomy.S13E24.720p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 16:37 - cp "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E24.720p.HEVC.x265-MeGusta [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:37 - Moved "/usb/torrents/.dot.torrents/Greys.Anatomy.S13E24.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:37 - No DIR_DATA found in Hacker.2016.BluRay.1080p.DTS.x264-PRoDJi.mkv [IPT].torrent
+2017-08-10 16:37 - Moved "/usb/torrents/.dot.torrents/Hacker.2016.BluRay.1080p.DTS.x264-PRoDJi.mkv [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:37 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E01E02.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:37 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E01E02.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:37 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E01E02.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:37 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:42 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E03.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-10 16:42 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E03.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:42 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E03.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:42 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E04.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:42 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E04.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:42 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E04.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:42 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E05.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:42 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E05.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:42 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E05.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:42 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E06.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:42 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E06.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:42 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E06.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:42 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E07.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:42 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E07.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:42 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E07.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:42 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E08.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:42 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E08.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:42 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E08.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:42 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E08.PROPER.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:42 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E08.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:42 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E08.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:42 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E09.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:42 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E09.720p.HDTV.x264-FLEET [IPT](10).torrent" /usb/torrents/watch
+2017-08-10 16:42 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E09.720p.HDTV.x264-FLEET [IPT](10).torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:42 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E10.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:42 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E10.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:42 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E10.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:42 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E11.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:42 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E11.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:42 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E11.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:42 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:47 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:47 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - mv "/usb/torrents/download/old/Heroes.Reborn.S01E13.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:47 - cp "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E13.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Heroes.Reborn.S01E13.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - mv "/usb/torrents/download/old/Holby.City.S19E44.1080p.HEVC.x265-MeGusta" /usb/torrents/download/
+2017-08-10 16:47 - cp "/usb/torrents/.dot.torrents/Holby.City.S19E44.1080p.HEVC.x265-MeGusta.torrent" /usb/torrents/watch
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Holby.City.S19E44.1080p.HEVC.x265-MeGusta.torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - mv "/usb/torrents/download/old/Homeland.S02E04.720p.HDTV.x264-0SEC" /usb/torrents/download/
+2017-08-10 16:47 - cp "/usb/torrents/.dot.torrents/Homeland.S02E04.720p.HDTV.x264-0SEC [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S02E04.720p.HDTV.x264-0SEC [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - No DIR_DATA found in Homeland.S05E01.720p.WEB-DL.DD5.1.H.264-PLAYNOW.mkv [IPT].torrent
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E01.720p.WEB-DL.DD5.1.H.264-PLAYNOW.mkv [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - mv "/usb/torrents/download/old/Homeland.S05E02.720p.HDTV.x264-0SEC" /usb/torrents/download/
+2017-08-10 16:47 - cp "/usb/torrents/.dot.torrents/Homeland.S05E02.720p.HDTV.x264-0SEC [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E02.720p.HDTV.x264-0SEC [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - mv "/usb/torrents/download/old/Homeland.S05E02.PROPER.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:47 - cp "/usb/torrents/.dot.torrents/Homeland.S05E02.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E02.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - No DIR_DATA found in Homeland.S05E03.720p.WEB-Dl.DD5.1.H.264-KiNGS [IPT].torrent
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E03.720p.WEB-Dl.DD5.1.H.264-KiNGS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - mv "/usb/torrents/download/old/Homeland.S05E05.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:47 - cp "/usb/torrents/.dot.torrents/Homeland.S05E05.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E05.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - No DIR_DATA found in Homeland.S05E05.720p.WEB-DL.DD5.1.H.264-KiNGS [IPT].torrent
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E05.720p.WEB-DL.DD5.1.H.264-KiNGS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - No DIR_DATA found in Homeland.S05E06.Parabiosis.720p.WEB-DL.DD5.1.H.264-NTb [IPT].torrent
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E06.Parabiosis.720p.WEB-DL.DD5.1.H.264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - mv "/usb/torrents/download/old/Homeland.S05E07.720p.HDTV.x264-0SEC" /usb/torrents/download/
+2017-08-10 16:47 - cp "/usb/torrents/.dot.torrents/Homeland.S05E07.720p.HDTV.x264-0SEC [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E07.720p.HDTV.x264-0SEC [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - No DIR_DATA found in Homeland.S05E07.Oriole.720p.WEB-DL.DD5.1.H.264-NTb.mkv [IPT].torrent
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E07.Oriole.720p.WEB-DL.DD5.1.H.264-NTb.mkv [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - mv "/usb/torrents/download/old/Homeland.S05E08.720p.HDTV.x264-0SEC" /usb/torrents/download/
+2017-08-10 16:47 - cp "/usb/torrents/.dot.torrents/Homeland.S05E08.720p.HDTV.x264-0SEC [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E08.720p.HDTV.x264-0SEC [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - mv "/usb/torrents/download/old/Homeland.S05E08.PROPER.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:47 - cp "/usb/torrents/.dot.torrents/Homeland.S05E08.PROPER.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:47 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E08.PROPER.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:47 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:52 - mv "/usb/torrents/download/old/Homeland.S05E09.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:52 - cp "/usb/torrents/.dot.torrents/Homeland.S05E09.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E09.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - mv "/usb/torrents/download/old/Homeland.S05E10.720p.HDTV.x264-0SEC" /usb/torrents/download/
+2017-08-10 16:52 - cp "/usb/torrents/.dot.torrents/Homeland.S05E10.720p.HDTV.x264-0SEC [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E10.720p.HDTV.x264-0SEC [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - mv "/usb/torrents/download/old/Homeland.S05E11.720p.HDTV.x264-0SEC" /usb/torrents/download/
+2017-08-10 16:52 - cp "/usb/torrents/.dot.torrents/Homeland.S05E11.720p.HDTV.x264-0SEC [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E11.720p.HDTV.x264-0SEC [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - mv "/usb/torrents/download/old/Homeland.S05E12.720p.HDTV.x264-0SEC" /usb/torrents/download/
+2017-08-10 16:52 - cp "/usb/torrents/.dot.torrents/Homeland.S05E12.720p.HDTV.x264-0SEC [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S05E12.720p.HDTV.x264-0SEC [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - No DIR_DATA found in Homeland.S06E01.720p.HDTV.x264-BATV [IPT].torrent
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E01.720p.HDTV.x264-BATV [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - mv "/usb/torrents/download/old/Homeland.S06E02.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:52 - cp "/usb/torrents/.dot.torrents/Homeland.S06E02.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E02.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - mv "/usb/torrents/download/old/Homeland.S06E03.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:52 - cp "/usb/torrents/.dot.torrents/Homeland.S06E03.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E03.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - mv "/usb/torrents/download/old/Homeland.S06E04.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:52 - cp "/usb/torrents/.dot.torrents/Homeland.S06E04.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E04.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - mv "/usb/torrents/download/old/Homeland.S06E05.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:52 - cp "/usb/torrents/.dot.torrents/Homeland.S06E05.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E05.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - mv "/usb/torrents/download/old/Homeland.S06E07.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:52 - cp "/usb/torrents/.dot.torrents/Homeland.S06E07.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E07.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - mv "/usb/torrents/download/old/Homeland.S06E08.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:52 - cp "/usb/torrents/.dot.torrents/Homeland.S06E08.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:52 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E08.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:52 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 16:57 - mv "/usb/torrents/download/old/Homeland.S06E09.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 16:57 - cp "/usb/torrents/.dot.torrents/Homeland.S06E09.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:57 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E09.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:57 - mv "/usb/torrents/download/old/Homeland.S06E09.PROPER.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-10 16:57 - cp "/usb/torrents/.dot.torrents/Homeland.S06E09.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:57 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E09.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:57 - mv "/usb/torrents/download/old/Homeland.S06E10.PROPER.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:57 - cp "/usb/torrents/.dot.torrents/Homeland.S06E10.PROPER.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:57 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E10.PROPER.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:57 - mv "/usb/torrents/download/old/Homeland.S06E11.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:57 - cp "/usb/torrents/.dot.torrents/Homeland.S06E11.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:57 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E11.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:57 - mv "/usb/torrents/download/old/Homeland.S06E12.PROPER.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-10 16:57 - cp "/usb/torrents/.dot.torrents/Homeland.S06E12.PROPER.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:57 - Moved "/usb/torrents/.dot.torrents/Homeland.S06E12.PROPER.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:57 - mv "/usb/torrents/download/old/Humans.S01E08.720p.HDTV.x264-TLA" /usb/torrents/download/
+2017-08-10 16:57 - cp "/usb/torrents/.dot.torrents/Humans.S01E08.720p.HDTV.x264-TLA [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:57 - Moved "/usb/torrents/.dot.torrents/Humans.S01E08.720p.HDTV.x264-TLA [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:57 - mv "/usb/torrents/download/old/Humans.S02E01.720p.HDTV.x264-MORiTZ" /usb/torrents/download/
+2017-08-10 16:57 - cp "/usb/torrents/.dot.torrents/Humans.S02E01.720p.HDTV.x264-MORiTZ [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:57 - Moved "/usb/torrents/.dot.torrents/Humans.S02E01.720p.HDTV.x264-MORiTZ [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:57 - mv "/usb/torrents/download/old/Humans.S02E02.720p.HDTV.x264-MORiTZ" /usb/torrents/download/
+2017-08-10 16:57 - cp "/usb/torrents/.dot.torrents/Humans.S02E02.720p.HDTV.x264-MORiTZ [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:57 - Moved "/usb/torrents/.dot.torrents/Humans.S02E02.720p.HDTV.x264-MORiTZ [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:57 - mv "/usb/torrents/download/old/Humans.S02E03.720p.HDTV.x264-MORiTZ" /usb/torrents/download/
+2017-08-10 16:57 - cp "/usb/torrents/.dot.torrents/Humans.S02E03.720p.HDTV.x264-MORiTZ [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:57 - Moved "/usb/torrents/.dot.torrents/Humans.S02E03.720p.HDTV.x264-MORiTZ [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:57 - mv "/usb/torrents/download/old/Humans.S02E04.720p.HDTV.x264-MORiTZ" /usb/torrents/download/
+2017-08-10 16:57 - cp "/usb/torrents/.dot.torrents/Humans.S02E04.720p.HDTV.x264-MORiTZ [IPT].torrent" /usb/torrents/watch
+2017-08-10 16:57 - Moved "/usb/torrents/.dot.torrents/Humans.S02E04.720p.HDTV.x264-MORiTZ [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 16:57 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:02 - mv "/usb/torrents/download/old/Humans.S02E05.720p.HDTV.x264-MORiTZ" /usb/torrents/download/
+2017-08-10 17:02 - cp "/usb/torrents/.dot.torrents/Humans.S02E05.720p.HDTV.x264-MORiTZ [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/Humans.S02E05.720p.HDTV.x264-MORiTZ [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - mv "/usb/torrents/download/old/Humans.S02E06.720p.HDTV.x264-MORiTZ" /usb/torrents/download/
+2017-08-10 17:02 - cp "/usb/torrents/.dot.torrents/Humans.S02E06.720p.HDTV.x264-MORiTZ [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/Humans.S02E06.720p.HDTV.x264-MORiTZ [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - mv "/usb/torrents/download/old/Humans.S02E07.720p.HDTV.x264-MORiTZ" /usb/torrents/download/
+2017-08-10 17:02 - cp "/usb/torrents/.dot.torrents/Humans.S02E07.720p.HDTV.x264-MORiTZ [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/Humans.S02E07.720p.HDTV.x264-MORiTZ [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - mv "/usb/torrents/download/old/Ice Age Collision Course 2016 HD-TS x264-CPG" /usb/torrents/download/
+2017-08-10 17:02 - cp "/usb/torrents/.dot.torrents/Ice Age Collision Course 2016 HD-TS x264-CPG [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/Ice Age Collision Course 2016 HD-TS x264-CPG [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - mv "/usb/torrents/download/old/Ice.Age.Collision.Course.2016.New.HDTS.XVID.AC3.HQ.Hive-CM8" /usb/torrents/download/
+2017-08-10 17:02 - cp "/usb/torrents/.dot.torrents/Ice.Age.Collision.Course.2016.New.HDTS.XVID.AC3.HQ.Hive-CM8 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/Ice.Age.Collision.Course.2016.New.HDTS.XVID.AC3.HQ.Hive-CM8 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - mv "/usb/torrents/download/old/Ice Age Collision Course 2016 V2 HD-TS x264-CPG" /usb/torrents/download/
+2017-08-10 17:02 - cp "/usb/torrents/.dot.torrents/Ice Age Collision Course 2016 V2 HD-TS x264-CPG [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/Ice Age Collision Course 2016 V2 HD-TS x264-CPG [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - mv "/usb/torrents/download/old/Independence Day Resurgence 2016 HDTC XviD AC3 -FWOLF" /usb/torrents/download/
+2017-08-10 17:02 - cp "/usb/torrents/.dot.torrents/Independence Day Resurgence 2016 HDTC XviD AC3 -FWOLF [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/Independence Day Resurgence 2016 HDTC XviD AC3 -FWOLF [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - No DIR_DATA found in INDEPENDENCE DAY RESURGENCE (2016) HD-TS x264 AC3 2.0 NL Subs MMF [PRIMEUR].mkv [IPT].torrent
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/INDEPENDENCE DAY RESURGENCE (2016) HD-TS x264 AC3 2.0 NL Subs MMF [PRIMEUR].mkv [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - mv "/usb/torrents/download/old/Independence Day Resurgence 2016 HD-TS x264 AC3-CPG" /usb/torrents/download/
+2017-08-10 17:02 - cp "/usb/torrents/.dot.torrents/Independence Day Resurgence 2016 HD-TS x264 AC3-CPG [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/Independence Day Resurgence 2016 HD-TS x264 AC3-CPG [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - mv "/usb/torrents/download/old/Independence Day Resurgence 2016 HD-TS x264 AC3 - FWOLF" /usb/torrents/download/
+2017-08-10 17:02 - cp "/usb/torrents/.dot.torrents/Independence Day Resurgence 2016 HD-TS x264 AC3 - FWOLF [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/Independence Day Resurgence 2016 HD-TS x264 AC3 - FWOLF [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - mv "/usb/torrents/download/old/Jack Reacher Novels" /usb/torrents/download/
+2017-08-10 17:02 - cp "/usb/torrents/.dot.torrents/Jack Reacher Novels [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:02 - Moved "/usb/torrents/.dot.torrents/Jack Reacher Novels [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:02 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:07 - mv "/usb/torrents/download/old/Jason Bourne 2016 CAM UnKnOwN" /usb/torrents/download/
+2017-08-10 17:07 - cp "/usb/torrents/.dot.torrents/Jason Bourne 2016 CAM UnKnOwN [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:07 - Moved "/usb/torrents/.dot.torrents/Jason Bourne 2016 CAM UnKnOwN [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:07 - mv "/usb/torrents/download/old/Jason.Bourne.2016.CAM.V2.READNFO.XviD-BiGDADDYVAiN" /usb/torrents/download/
+2017-08-10 17:07 - cp "/usb/torrents/.dot.torrents/Jason.Bourne.2016.CAM.V2.READNFO.XviD-BiGDADDYVAiN [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:07 - Moved "/usb/torrents/.dot.torrents/Jason.Bourne.2016.CAM.V2.READNFO.XviD-BiGDADDYVAiN [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:07 - mv "/usb/torrents/download/old/Jason Bourne 2016  HD-TS x264-CPG" /usb/torrents/download/
+2017-08-10 17:07 - cp "/usb/torrents/.dot.torrents/Jason Bourne 2016  HD-TS x264-CPG [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:07 - Moved "/usb/torrents/.dot.torrents/Jason Bourne 2016  HD-TS x264-CPG [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:07 - mv "/usb/torrents/download/old/Jeopardy.2017.01.03.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.01.03.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.01.03.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:07 - mv "/usb/torrents/download/old/Jeopardy.2017.01.04.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.01.04.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.01.04.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:07 - mv "/usb/torrents/download/old/Jeopardy.2017.01.30.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.01.30.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.01.30.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:07 - mv "/usb/torrents/download/old/Jeopardy.2017.01.31.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.01.31.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.01.31.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:07 - mv "/usb/torrents/download/old/Jeopardy.2017.02.01.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.02.01.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.02.01.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:07 - mv "/usb/torrents/download/old/Jeopardy.2017.02.02.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.02.02.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.02.02.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:07 - mv "/usb/torrents/download/old/Jeopardy.2017.02.06.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.02.06.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.02.06.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:07 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:12 - mv "/usb/torrents/download/old/Jeopardy.2017.02.23.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.02.23.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.02.23.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:12 - mv "/usb/torrents/download/old/Jeopardy.2017.02.23.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.02.23.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.02.23.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:12 - mv "/usb/torrents/download/old/Jeopardy.2017.02.24.INTERNAL.720p.HDTV.x264-FEET" /usb/torrents/download/
+2017-08-10 17:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.02.24.INTERNAL.720p.HDTV.x264-FEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.02.24.INTERNAL.720p.HDTV.x264-FEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:12 - mv "/usb/torrents/download/old/Jeopardy.2017.02.28.720p.HDTV.x264-RacemicMixture" /usb/torrents/download/
+2017-08-10 17:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.02.28.720p.HDTV.x264-RacemicMixture [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.02.28.720p.HDTV.x264-RacemicMixture [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:12 - mv "/usb/torrents/download/old/Jeopardy.2017.03.01.720p.HDTV.x264-RacemicMixture" /usb/torrents/download/
+2017-08-10 17:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.01.720p.HDTV.x264-RacemicMixture [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.01.720p.HDTV.x264-RacemicMixture [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:12 - mv "/usb/torrents/download/old/Jeopardy.2017.03.02.720p.HDTV.x264-RacemicMixture" /usb/torrents/download/
+2017-08-10 17:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.02.720p.HDTV.x264-RacemicMixture [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.02.720p.HDTV.x264-RacemicMixture [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:12 - mv "/usb/torrents/download/old/Jeopardy.2017.03.03.720p.HDTV.x264-RacemicMixture" /usb/torrents/download/
+2017-08-10 17:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.03.720p.HDTV.x264-RacemicMixture [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.03.720p.HDTV.x264-RacemicMixture [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:12 - mv "/usb/torrents/download/old/Jeopardy.2017.03.06.720p.HDTV.x264-RacemicMixture" /usb/torrents/download/
+2017-08-10 17:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.06.720p.HDTV.x264-RacemicMixture [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.06.720p.HDTV.x264-RacemicMixture [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:12 - mv "/usb/torrents/download/old/Jeopardy.2017.03.07.720p.HDTV.x264-FEET" /usb/torrents/download/
+2017-08-10 17:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.07.720p.HDTV.x264-FEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.07.720p.HDTV.x264-FEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:12 - mv "/usb/torrents/download/old/Jeopardy.2017.03.08.720p.HDTV.x264-FEET" /usb/torrents/download/
+2017-08-10 17:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.08.720p.HDTV.x264-FEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.08.720p.HDTV.x264-FEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:12 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:17 - mv "/usb/torrents/download/old/Jeopardy.2017.03.10.720p.HDTV.x264-RacemicMixture" /usb/torrents/download/
+2017-08-10 17:17 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.10.720p.HDTV.x264-RacemicMixture [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:17 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.10.720p.HDTV.x264-RacemicMixture [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:17 - mv "/usb/torrents/download/old/Jeopardy.2017.03.14.720p.HDTV.x264-RacemicMixture" /usb/torrents/download/
+2017-08-10 17:17 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.14.720p.HDTV.x264-RacemicMixture [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:17 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.14.720p.HDTV.x264-RacemicMixture [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:17 - mv "/usb/torrents/download/old/Jeopardy.2017.03.15.720p.HDTV.x264-RacemicMixture" /usb/torrents/download/
+2017-08-10 17:17 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.15.720p.HDTV.x264-RacemicMixture [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:17 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.15.720p.HDTV.x264-RacemicMixture [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:17 - mv "/usb/torrents/download/old/Jeopardy.2017.03.16.720p.HDTV.x264-RacemicMixture" /usb/torrents/download/
+2017-08-10 17:17 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.16.720p.HDTV.x264-RacemicMixture [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:17 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.16.720p.HDTV.x264-RacemicMixture [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:17 - mv "/usb/torrents/download/old/Jeopardy.2017.03.24.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:17 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.24.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:17 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.24.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:17 - mv "/usb/torrents/download/old/Jeopardy.2017.03.28.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:17 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.28.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:17 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.28.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:17 - mv "/usb/torrents/download/old/Jeopardy.2017.03.29.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:17 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.29.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:17 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.29.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:17 - mv "/usb/torrents/download/old/Jeopardy.2017.03.31.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:17 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.31.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:17 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.31.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:17 - mv "/usb/torrents/download/old/Jeopardy.2017.03.31.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:17 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.03.31.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:17 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.03.31.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:17 - mv "/usb/torrents/download/old/Jeopardy.2017.04.03.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:17 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.03.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:17 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.03.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:17 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:22 - mv "/usb/torrents/download/old/Jeopardy.2017.04.03.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:22 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.03.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:22 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.03.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:22 - mv "/usb/torrents/download/old/Jeopardy.2017.04.04.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:22 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.04.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:22 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.04.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:22 - mv "/usb/torrents/download/old/Jeopardy.2017.04.04.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:22 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.04.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:22 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.04.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:22 - mv "/usb/torrents/download/old/Jeopardy.2017.04.05.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:22 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.05.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:22 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.05.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:22 - mv "/usb/torrents/download/old/Jeopardy.2017.04.05.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:22 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.05.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:22 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.05.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:22 - mv "/usb/torrents/download/old/Jeopardy.2017.04.07.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:22 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.07.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:22 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.07.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:22 - mv "/usb/torrents/download/old/Jeopardy.2017.04.07.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:22 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.07.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:22 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.07.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:22 - mv "/usb/torrents/download/old/Jeopardy.2017.04.10.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:22 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.10.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:22 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.10.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:22 - mv "/usb/torrents/download/old/Jeopardy.2017.04.10.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:22 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.10.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:22 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.10.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:22 - mv "/usb/torrents/download/old/Jeopardy.2017.04.11.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:22 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.11.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:22 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.11.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:22 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:27 - mv "/usb/torrents/download/old/Jeopardy.2017.04.11.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:27 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.11.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:27 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.11.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:27 - mv "/usb/torrents/download/old/Jeopardy.2017.04.12.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:27 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.12.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:27 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.12.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:27 - mv "/usb/torrents/download/old/Jeopardy.2017.04.12.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:27 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.12.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:27 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.12.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:27 - mv "/usb/torrents/download/old/Jeopardy.2017.04.13.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:27 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.13.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:27 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.13.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:27 - mv "/usb/torrents/download/old/Jeopardy.2017.04.13.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:27 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.13.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:27 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.13.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:27 - mv "/usb/torrents/download/old/Jeopardy.2017.04.14.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:27 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.14.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:27 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.14.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:27 - mv "/usb/torrents/download/old/Jeopardy.2017.04.14.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:27 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.14.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:27 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.14.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:27 - mv "/usb/torrents/download/old/Jeopardy.2017.04.17.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:27 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.17.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:27 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.17.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:27 - mv "/usb/torrents/download/old/Jeopardy.2017.04.18.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:27 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.18.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:27 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.18.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:27 - mv "/usb/torrents/download/old/Jeopardy.2017.04.18.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:27 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.18.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:27 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.18.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:27 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:32 - mv "/usb/torrents/download/old/Jeopardy.2017.04.19.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:32 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.19.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:32 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.19.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:32 - mv "/usb/torrents/download/old/Jeopardy.2017.04.19.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:32 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.19.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:32 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.19.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:32 - mv "/usb/torrents/download/old/Jeopardy.2017.04.20.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:32 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.20.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:32 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.20.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:32 - mv "/usb/torrents/download/old/Jeopardy.2017.04.20.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:32 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.20.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:32 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.20.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:32 - mv "/usb/torrents/download/old/Jeopardy.2017.04.24.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:32 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.24.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:32 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.24.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:32 - mv "/usb/torrents/download/old/Jeopardy.2017.04.24.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:32 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.24.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:32 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.24.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:32 - mv "/usb/torrents/download/old/Jeopardy.2017.04.25.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:32 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.25.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:32 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.25.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:32 - mv "/usb/torrents/download/old/Jeopardy.2017.04.25.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:32 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.25.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:32 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.25.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:32 - mv "/usb/torrents/download/old/Jeopardy.2017.04.26.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:32 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.26.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:32 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.26.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:32 - mv "/usb/torrents/download/old/Jeopardy.2017.04.27.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:32 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.27.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:32 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.27.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:32 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:37 - mv "/usb/torrents/download/old/Jeopardy.2017.04.27.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:37 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.27.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.27.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 - mv "/usb/torrents/download/old/Jeopardy.2017.04.28.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:37 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.28.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.28.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 - mv "/usb/torrents/download/old/Jeopardy.2017.04.28.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:37 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.04.28.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.04.28.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 - mv "/usb/torrents/download/old/Jeopardy.2017.05.01.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:37 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.01.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.01.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 -  was not found -  Jeopardy.2017.05.01.720p.HDTV.x264-NTb [IPT].torrent
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.01.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 - mv "/usb/torrents/download/old/Jeopardy.2017.05.02.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:37 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.02.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.02.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 - mv "/usb/torrents/download/old/Jeopardy.2017.05.03.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:37 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.03.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.03.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 - mv "/usb/torrents/download/old/Jeopardy.2017.05.03.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:37 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.03.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.03.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 - mv "/usb/torrents/download/old/Jeopardy.2017.05.04.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:37 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.04.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.04.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 - mv "/usb/torrents/download/old/Jeopardy.2017.05.05.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:37 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.05.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.05.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 - mv "/usb/torrents/download/old/Jeopardy.2017.05.05.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:37 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.05.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:37 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.05.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:37 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:42 - mv "/usb/torrents/download/old/Jeopardy.2017.05.08.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:42 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.08.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.08.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 - mv "/usb/torrents/download/old/Jeopardy.2017.05.08.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:42 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.08.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.08.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 -  was not found -  Jeopardy.2017.05.09.720p.HDTV.DD5.1.MPEG2 [IPT].torrent
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.09.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 - mv "/usb/torrents/download/old/Jeopardy.2017.05.10.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:42 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.10.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.10.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 - mv "/usb/torrents/download/old/Jeopardy.2017.05.11.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:42 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.11.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.11.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 - mv "/usb/torrents/download/old/Jeopardy.2017.05.12.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:42 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.12.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.12.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 - mv "/usb/torrents/download/old/Jeopardy.2017.05.12.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:42 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.12.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.12.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 - mv "/usb/torrents/download/old/Jeopardy.2017.05.15.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:42 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.15.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.15.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 - mv "/usb/torrents/download/old/Jeopardy.2017.05.15.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:42 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.15.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.15.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 - mv "/usb/torrents/download/old/Jeopardy.2017.05.16.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:42 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.16.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.16.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 - mv "/usb/torrents/download/old/Jeopardy.2017.05.17.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:42 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.17.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:42 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.17.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:42 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:47 - mv "/usb/torrents/download/old/Jeopardy.2017.05.17.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:47 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.17.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:47 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.17.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:47 - mv "/usb/torrents/download/old/Jeopardy.2017.05.18.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:47 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.18.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:47 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.18.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:47 - mv "/usb/torrents/download/old/Jeopardy.2017.05.19.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:47 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.19.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:47 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.19.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:47 - mv "/usb/torrents/download/old/Jeopardy.2017.05.19.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:47 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.19.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:47 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.19.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:47 - mv "/usb/torrents/download/old/Jeopardy.2017.05.22.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:47 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.22.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:47 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.22.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:47 - mv "/usb/torrents/download/old/Jeopardy.2017.05.23.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:47 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.23.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:47 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.23.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:47 - mv "/usb/torrents/download/old/Jeopardy.2017.05.23.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:47 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.23.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:47 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.23.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:47 - mv "/usb/torrents/download/old/Jeopardy.2017.05.24.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:47 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.24.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:47 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.24.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:47 - mv "/usb/torrents/download/old/Jeopardy.2017.05.25.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:47 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.25.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:47 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.25.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:47 - mv "/usb/torrents/download/old/Jeopardy.2017.05.26.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:47 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.26.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:47 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.26.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:47 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:52 - mv "/usb/torrents/download/old/Jeopardy.2017.05.26.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:52 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.26.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:52 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.26.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:52 - mv "/usb/torrents/download/old/Jeopardy.2017.05.29.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:52 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.29.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:52 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.29.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:52 - mv "/usb/torrents/download/old/Jeopardy.2017.05.29.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:52 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.29.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:52 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.29.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:52 - mv "/usb/torrents/download/old/Jeopardy.2017.05.30.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:52 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.30.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:52 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.30.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:52 - mv "/usb/torrents/download/old/Jeopardy.2017.05.31.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:52 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.31.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:52 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.31.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:52 - mv "/usb/torrents/download/old/Jeopardy.2017.05.31.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:52 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.05.31.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:52 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.05.31.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:52 - mv "/usb/torrents/download/old/Jeopardy.2017.06.01.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:52 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.01.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:52 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.01.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:52 - mv "/usb/torrents/download/old/Jeopardy.2017.06.01.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:52 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.01.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:52 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.01.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:52 - mv "/usb/torrents/download/old/Jeopardy.2017.06.02.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:52 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.02.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:52 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.02.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:52 - mv "/usb/torrents/download/old/Jeopardy.2017.06.02.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:52 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.02.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:52 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.02.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:52 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 17:57 - mv "/usb/torrents/download/old/Jeopardy.2017.06.05.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:57 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.05.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:57 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.05.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:57 - mv "/usb/torrents/download/old/Jeopardy.2017.06.06.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:57 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.06.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:57 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.06.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:57 - mv "/usb/torrents/download/old/Jeopardy.2017.06.07.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:57 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.07.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:57 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.07.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:57 - mv "/usb/torrents/download/old/Jeopardy.2017.06.07.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:57 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.07.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:57 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.07.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:57 - mv "/usb/torrents/download/old/Jeopardy.2017.06.08.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:57 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.08.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:57 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.08.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:57 - mv "/usb/torrents/download/old/Jeopardy.2017.06.08.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:57 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.08.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:57 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.08.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:57 - mv "/usb/torrents/download/old/Jeopardy.2017.06.09.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:57 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.09.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:57 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.09.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:57 - mv "/usb/torrents/download/old/Jeopardy.2017.06.09.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:57 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.09.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:57 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.09.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:57 - mv "/usb/torrents/download/old/Jeopardy.2017.06.12.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 17:57 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.12.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:57 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.12.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:57 - mv "/usb/torrents/download/old/Jeopardy.2017.06.12.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 17:57 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.12.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 17:57 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.12.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 17:57 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 18:02 - mv "/usb/torrents/download/old/Jeopardy.2017.06.13.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:02 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.13.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:02 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.13.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:02 - mv "/usb/torrents/download/old/Jeopardy.2017.06.13.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:02 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.13.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:02 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.13.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:02 - mv "/usb/torrents/download/old/Jeopardy.2017.06.14.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:02 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.14.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:02 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.14.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:02 - mv "/usb/torrents/download/old/Jeopardy.2017.06.14.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:02 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.14.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:02 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.14.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:02 - mv "/usb/torrents/download/old/Jeopardy.2017.06.16.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:02 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.16.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:02 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.16.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:02 - mv "/usb/torrents/download/old/Jeopardy.2017.06.19.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:02 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.19.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:02 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.19.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:02 - mv "/usb/torrents/download/old/Jeopardy.2017.06.21.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:02 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.21.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:02 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.21.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:02 - mv "/usb/torrents/download/old/Jeopardy.2017.06.23.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:02 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.23.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:02 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.23.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:02 - mv "/usb/torrents/download/old/Jeopardy.2017.06.23.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:02 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.23.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:02 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.23.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:02 - mv "/usb/torrents/download/old/Jeopardy.2017.06.30.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:02 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.30.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:02 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.30.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:02 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 18:07 - mv "/usb/torrents/download/old/Jeopardy.2017.06.30.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.06.30.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.06.30.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 - mv "/usb/torrents/download/old/Jeopardy.2017.07.04.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.04.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.04.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 - mv "/usb/torrents/download/old/Jeopardy.2017.07.05.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.05.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.05.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 - mv "/usb/torrents/download/old/Jeopardy.2017.07.05.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.05.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.05.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 - mv "/usb/torrents/download/old/Jeopardy.2017.07.06.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.06.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.06.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 - mv "/usb/torrents/download/old/Jeopardy.2017.07.06.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.06.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.06.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 - mv "/usb/torrents/download/old/Jeopardy.2017.07.07.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.07.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.07.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 - mv "/usb/torrents/download/old/Jeopardy.2017.07.10.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.10.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.10.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 - mv "/usb/torrents/download/old/Jeopardy.2017.07.12.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.12.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.12.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 -  was not found -  Jeopardy.2017.07.12.720p.HDTV.x264-NTb [IPT].torrent
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.12.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 - mv "/usb/torrents/download/old/Jeopardy.2017.07.13.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:07 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.13.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:07 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.13.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:07 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 18:12 - mv "/usb/torrents/download/old/Jeopardy.2017.07.13.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.13.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.13.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:12 - mv "/usb/torrents/download/old/Jeopardy.2017.07.17.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.17.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.17.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:12 - mv "/usb/torrents/download/old/Jeopardy.2017.07.17.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.17.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.17.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:12 - mv "/usb/torrents/download/old/Jeopardy.2017.07.18.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.18.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.18.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:12 - mv "/usb/torrents/download/old/Jeopardy.2017.07.20.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.20.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.20.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:12 - mv "/usb/torrents/download/old/Jeopardy.2017.07.20.720p.HDTV.x264-NTb" /usb/torrents/download/
+2017-08-10 18:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.20.720p.HDTV.x264-NTb [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.20.720p.HDTV.x264-NTb [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:12 - mv "/usb/torrents/download/old/Jeopardy.2017.07.25.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.25.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.25.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:12 - mv "/usb/torrents/download/old/Jeopardy.2017.07.26.720p.HDTV.DD5.1.MPEG2" /usb/torrents/download/
+2017-08-10 18:12 - cp "/usb/torrents/.dot.torrents/Jeopardy.2017.07.26.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:12 - Moved "/usb/torrents/.dot.torrents/Jeopardy.2017.07.26.720p.HDTV.DD5.1.MPEG2 [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:12 - mv "/usb/torrents/download/old/Jimmy.Fallon.2017.08.08.Billy.Crystal.HDTV.x264-CROOKS" /usb/torrents/download/
+2017-08-10 18:12 - cp "/usb/torrents/.dot.torrents/Jimmy.Fallon.2017.08.08.Billy.Crystal.HDTV.x264-CROOKS.torrent" /usb/torrents/watch
+2017-08-10 18:12 - Moved "/usb/torrents/.dot.torrents/Jimmy.Fallon.2017.08.08.Billy.Crystal.HDTV.x264-CROOKS.torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:12 - mv "/usb/torrents/download/old/Legion.S01E01.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-10 18:12 - cp "/usb/torrents/.dot.torrents/Legion.S01E01.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-10 18:12 - Moved "/usb/torrents/.dot.torrents/Legion.S01E01.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:12 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 18:32 - Starting Script
+2017-08-10 18:32 - Moving "/usb/torrents/download/old/Legion.S01E02.720p.HDTV.x264-AVS" to /usb/torrents/download/
+2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E02.720p.HDTV.x264-AVS [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E02.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:32 - Moving "/usb/torrents/download/old/Legion.S01E02.iNTERNAL.720p.HDTV.x264-TURBO" to /usb/torrents/download/
+2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E02.iNTERNAL.720p.HDTV.x264-TURBO [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E02.iNTERNAL.720p.HDTV.x264-TURBO [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:32 - Moving "/usb/torrents/download/old/Legion.S01E03.720p.HDTV.x264-AVS" to /usb/torrents/download/
+2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E03.720p.HDTV.x264-AVS [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E03.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:32 - Moving "/usb/torrents/download/old/Legion.S01E03.720p.HDTV.x264-FLEET" to /usb/torrents/download/
+2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E03.720p.HDTV.x264-FLEET [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E03.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:32 - Moving "/usb/torrents/download/old/Legion.S01E03.iNTERNAL.720p.HDTV.x264-TURBO" to /usb/torrents/download/
+2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E03.iNTERNAL.720p.HDTV.x264-TURBO [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E03.iNTERNAL.720p.HDTV.x264-TURBO [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:32 - Moving "/usb/torrents/download/old/Legion.S01E04.720p.HDTV.x264-AVS" to /usb/torrents/download/
+2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E04.720p.HDTV.x264-AVS [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E04.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:32 - Moving "/usb/torrents/download/old/Legion.S01E04.720p.HDTV.x264-FLEET" to /usb/torrents/download/
+2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E04.720p.HDTV.x264-FLEET [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E04.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:32 - Moving "/usb/torrents/download/old/Legion.S01E04.REAL.PROPER.720p.HDTV.x264-SVA" to /usb/torrents/download/
+2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E04.REAL.PROPER.720p.HDTV.x264-SVA [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E04.REAL.PROPER.720p.HDTV.x264-SVA [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:32 - Moving "/usb/torrents/download/old/Legion.S01E05.720p.HDTV.x264-AVS" to /usb/torrents/download/
+2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E05.720p.HDTV.x264-AVS [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E05.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:32 - Moving "/usb/torrents/download/old/Legion.S01E05.iNTERNAL.720p.HDTV.x264-TURBO" to /usb/torrents/download/
+2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E05.iNTERNAL.720p.HDTV.x264-TURBO [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E05.iNTERNAL.720p.HDTV.x264-TURBO [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:32 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
