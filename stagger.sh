@@ -39,7 +39,7 @@ log_and_echo () {
 }
 
 # move torrent after copying to watch folder
-move_torrent {
+move_torrent () {
    torrent=$1
    mv "${dot_torrents_dir}/$torrent" ${move_torrent_dir}
    log_and_echo "Moved \"${dot_torrents_dir}/$torrent\" to ${move_torrent_dir}"
