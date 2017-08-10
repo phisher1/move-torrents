@@ -112,3 +112,215 @@
 2017-08-09 21:16 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S05E07.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
 2017-08-09 21:16 - No DIR_DATA found in American.Horror.Story.S05E08.720p.HDTV.x264-KILLERS [IPT].torrent
 2017-08-09 21:16 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S05E08.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - Starting Script
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S05E09.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S05E09.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S05E09.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S05E11.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S05E11.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S05E11.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S05E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S05E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S05E12.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S06E01.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S06E01.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S06E01.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S06E02.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S06E02.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S06E02.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S06E03.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S06E03.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S06E03.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S06E04.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S06E04.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S06E04.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S06E05.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S06E05.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S06E05.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S06E06.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S06E06.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S06E06.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S06E07.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S06E07.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S06E07.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S06E08.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S06E08.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S06E08.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/American.Horror.Story.S06E10.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/American.Horror.Story.S06E10.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/American.Horror.Story.S06E10.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ancient.Aliens.S11E03.The.Next.Humans.720p.HDTV.x264-DHD" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ancient.Aliens.S11E03.The.Next.Humans.720p.HDTV.x264-DHD [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ancient.Aliens.S11E03.The.Next.Humans.720p.HDTV.x264-DHD [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ann Coulter - Demonic" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ann%20Coulter%20-%20Demonic.torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ann%20Coulter%20-%20Demonic.torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S06E11.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S06E11.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S06E11.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S06E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S06E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S06E12.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S06E13.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S06E13.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S06E13.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S07E01.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S07E01.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S07E01.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S07E03.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S07E03.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S07E03.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S07E04.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S07E04.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S07E04.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S07E05.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S07E05.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S07E05.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S07E06.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S07E06.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S07E06.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S07E08.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S07E08.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S07E08.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S07E09.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S07E09.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S07E09.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S07E10.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S07E10.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S07E10.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S08E01.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S08E01.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S08E01.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S08E02.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S08E02.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S08E02.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S08E03.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S08E03.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S08E03.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S08E04.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S08E04.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S08E04.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S08E05.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S08E05.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S08E05.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S08E07.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S08E07.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S08E07.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Archer.2009.S08E08.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Archer.2009.S08E08.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Archer.2009.S08E08.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E02.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E02.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E02.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E02.INTERNAL.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E02.INTERNAL.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E02.INTERNAL.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E03.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E03.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E03.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - No DIR_DATA found in Ash.Vs.Evil.Dead.S02E03.720p.HDTV.x264-IchiMaruGin.mkv [IPT].torrent
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.Vs.Evil.Dead.S02E03.720p.HDTV.x264-IchiMaruGin.mkv [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E03.720p.WEBRip.X264-DEFLATE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E03.720p.WEBRip.X264-DEFLATE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E03.720p.WEBRip.X264-DEFLATE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E04.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E04.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E04.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E04.720p.WEBRip.X264-DEFLATE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E04.720p.WEBRip.X264-DEFLATE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E04.720p.WEBRip.X264-DEFLATE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E05.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E05.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E05.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E05.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E05.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E05.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E05.720p.WEBRip.X264-DEFLATE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E05.720p.WEBRip.X264-DEFLATE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E05.720p.WEBRip.X264-DEFLATE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E06.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E06.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E06.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E07.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E07.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E07.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E07.720p.WEBRip.X264-DEFLATE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E07.720p.WEBRip.X264-DEFLATE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E07.720p.WEBRip.X264-DEFLATE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E08.720p.HDTV.x264-AVS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E08.720p.HDTV.x264-AVS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E08.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E08.720p.WEBRip.X264-DEFLATE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E08.720p.WEBRip.X264-DEFLATE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E08.720p.WEBRip.X264-DEFLATE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E09.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E09.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E09.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E09.720p.WEBRip.X264-DEFLATE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E09.720p.WEBRip.X264-DEFLATE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E09.720p.WEBRip.X264-DEFLATE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E10.720p.HDTV.x264-FLEET" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E10.720p.HDTV.x264-FLEET [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E10.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ash.vs.Evil.Dead.S02E10.720p.WEBRip.X264-DEFLATE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E10.720p.WEBRip.X264-DEFLATE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ash.vs.Evil.Dead.S02E10.720p.WEBRip.X264-DEFLATE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 -  was not found -  Backstrom.S01E08.720p.HDTV.x264-KILLERS [IPT].torrent
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E08.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Backstrom.S01E09.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Backstrom.S01E09.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E09.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Backstrom.S01E09.720p.WEBRip.H264-TURBO" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Backstrom.S01E09.720p.WEBRip.H264-TURBO [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E09.720p.WEBRip.H264-TURBO [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Backstrom.S01E10.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Backstrom.S01E10.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E10.720p.HDTV.x264-IMMERSE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Backstrom.S01E10.720p.WEBRip.H264-TURBO" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Backstrom.S01E10.720p.WEBRip.H264-TURBO [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E10.720p.WEBRip.H264-TURBO [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Backstrom.S01E10.INTERNAL.720p.HDTV.x264-FiHTV" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Backstrom.S01E10.INTERNAL.720p.HDTV.x264-FiHTV [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E10.INTERNAL.720p.HDTV.x264-FiHTV [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Backstrom.S01E11.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Backstrom.S01E11.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E11.720p.HDTV.x264-IMMERSE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - No DIR_DATA found in Backstrom.S01E11.720p.HDTV.x264-NOTIMMERSE.mkv [IPT].torrent
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E11.720p.HDTV.x264-NOTIMMERSE.mkv [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Backstrom.S01E12.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Backstrom.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E12.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Backstrom.S01E13.720p.HDTV.X264-DIMENSION" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Backstrom.S01E13.720p.HDTV.X264-DIMENSION [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E13.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Backstrom.S01E13.REAL.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Backstrom.S01E13.REAL.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Backstrom.S01E13.REAL.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Bad.Moms.2016.HDCAM.XviD.AC3-UnKnOwN" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Bad.Moms.2016.HDCAM.XviD.AC3-UnKnOwN [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Bad.Moms.2016.HDCAM.XviD.AC3-UnKnOwN [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ballers.2015.S01E09.720p.HDTV.x264-0SEC" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ballers.2015.S01E09.720p.HDTV.x264-0SEC [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ballers.2015.S01E09.720p.HDTV.x264-0SEC [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Ballers.2015.S01E10.720p.HDTV.x264-0SEC" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Ballers.2015.S01E10.720p.HDTV.x264-0SEC [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Ballers.2015.S01E10.720p.HDTV.x264-0SEC [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Bates.Motel.S03E04.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Bates.Motel.S03E04.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Bates.Motel.S03E04.720p.HDTV.x264-IMMERSE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Bates.Motel.S03E04.INTERNAL.720p.HDTV.x264-FiHTV" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Bates.Motel.S03E04.INTERNAL.720p.HDTV.x264-FiHTV [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Bates.Motel.S03E04.INTERNAL.720p.HDTV.x264-FiHTV [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Bates.Motel.S03E05.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Bates.Motel.S03E05.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Bates.Motel.S03E05.720p.HDTV.x264-IMMERSE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Bates.Motel.S03E05.INTERNAL.720p.HDTV.x264-FiHTV" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Bates.Motel.S03E05.INTERNAL.720p.HDTV.x264-FiHTV [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Bates.Motel.S03E05.INTERNAL.720p.HDTV.x264-FiHTV [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - No DIR_DATA found in Bates Motel S03E06 720p HDTV AAC x264-PSYPHER [IPT].torrent
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Bates Motel S03E06 720p HDTV AAC x264-PSYPHER [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Bates.Motel.S03E06.720p.HDTV.x264-KILLERS" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Bates.Motel.S03E06.720p.HDTV.x264-KILLERS [IPT].torrent" /usb/torrents/watch
+2017-08-09 21:17 - Moved "/usb/torrents/.dot.torrents/Bates.Motel.S03E06.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-09 21:17 - mv "/usb/torrents/download/old/Bates.Motel.S03E07.720p.HDTV.x264-IMMERSE" /usb/torrents/download/
+2017-08-09 21:17 - cp "/usb/torrents/.dot.torrents/Bates.Motel.S03E07.720p.HDTV.x264-IMMERSE [IPT].torrent" /usb/torrents/watch

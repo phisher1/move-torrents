@@ -17,7 +17,7 @@ interval=3600
 # logfile
 log_file=migrate.log
 
-# move torrent from original directory after adding to watch?
+# move torrent from original directory after adding to watch? 
 move_torrent=1
 
 # if move_torrent is enabled, directory to move torrent file to
@@ -66,8 +66,9 @@ ls -l ${dot_torrents_dir} |grep -v "total"| cut -c51-1000|while read torrent; do
          cp "${dot_torrents_dir}/${torrent}" /usb/torrents/watch
          if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
          filecount=$(($filecount+1))
-         if [[ ${filecount} -eq ${max_per_internal} ]]; then
+         if [[ ${filecount} -eq ${max_per_interval} ]]; then
             torrentcount=$(($torrentcount+1))
+            log_and_echo "Sleeping now.. Max torrents per interval added. ($max_per_interval per $interval seconds)"
             sleep ${interval}
             filecount=0
          fi
