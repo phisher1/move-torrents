@@ -50,7 +50,7 @@ torrentcount=1
 filecount=0
 log_and_echo "Starting Script"
 ls -l ${dot_torrents_dir} |grep -v "total"| cut -c51-1000|while read torrent; do
-   torrent_dir_name=`/torrent_dir_name.py "${dot_torrents_dir}/${torrent}"`
+   torrent_dir_name=`./torrent_dir_name.py "${dot_torrents_dir}/${torrent}"`
    if [ -z "${torrent_dir_name}" ] ; then
       log_and_echo "No DIR_DATA found in ${torrent}"
       if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
