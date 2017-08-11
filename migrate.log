@@ -2015,3 +2015,410 @@
 2017-08-10 18:32 - Copying "/usb/torrents/.dot.torrents/Legion.S01E05.iNTERNAL.720p.HDTV.x264-TURBO [IPT].torrent" to /usb/torrents/watch
 2017-08-10 18:32 - Moving "/usb/torrents/.dot.torrents/Legion.S01E05.iNTERNAL.720p.HDTV.x264-TURBO [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
 2017-08-10 18:32 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 18:36 - Starting Script
+2017-08-10 18:36 - Moving "/usb/torrents/download/old/Legion.S01E05.iNTERNAL.720p.HEVC.x265-MeGusta" to /usb/torrents/download/
+2017-08-10 18:36 - Copying "/usb/torrents/.dot.torrents/Legion.S01E05.iNTERNAL.720p.HEVC.x265-MeGusta [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:36 - Moving "/usb/torrents/.dot.torrents/Legion.S01E05.iNTERNAL.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:36 - Moving "/usb/torrents/download/old/Legion.S01E06.720p.HEVC.x265-MeGusta" to /usb/torrents/download/
+2017-08-10 18:36 - Copying "/usb/torrents/.dot.torrents/Legion.S01E06.720p.HEVC.x265-MeGusta [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:36 - Moving "/usb/torrents/.dot.torrents/Legion.S01E06.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:36 - Moving "/usb/torrents/download/old/Legion.S01E07.720p.HEVC.x265-MeGusta" to /usb/torrents/download/
+2017-08-10 18:36 - Copying "/usb/torrents/.dot.torrents/Legion.S01E07.720p.HEVC.x265-MeGusta [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:36 - Moving "/usb/torrents/.dot.torrents/Legion.S01E07.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:36 - Moving "/usb/torrents/download/old/Legion.S01E07.PROPER.720p.HEVC.x265-MeGusta" to /usb/torrents/download/
+2017-08-10 18:36 - Copying "/usb/torrents/.dot.torrents/Legion.S01E07.PROPER.720p.HEVC.x265-MeGusta [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:36 - Moving "/usb/torrents/.dot.torrents/Legion.S01E07.PROPER.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:36 - Moving "/usb/torrents/download/old/Legion.S01E07.REAL.PROPER.720p.HEVC.x265-MeGusta" to /usb/torrents/download/
+2017-08-10 18:36 - Copying "/usb/torrents/.dot.torrents/Legion.S01E07.REAL.PROPER.720p.HEVC.x265-MeGusta [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:36 - Moving "/usb/torrents/.dot.torrents/Legion.S01E07.REAL.PROPER.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:36 - Moving "/usb/torrents/download/old/Legion.S01E08.720p.HEVC.x265-MeGusta" to /usb/torrents/download/
+2017-08-10 18:36 - Copying "/usb/torrents/.dot.torrents/Legion.S01E08.720p.HEVC.x265-MeGusta [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:36 - Moving "/usb/torrents/.dot.torrents/Legion.S01E08.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:36 - Moving "/usb/torrents/download/old/Lights.Out.2016.CAM.READNFO.XviD-BiGDADDYVAiN" to /usb/torrents/download/
+2017-08-10 18:36 - Copying "/usb/torrents/.dot.torrents/Lights.Out.2016.CAM.READNFO.XviD-BiGDADDYVAiN [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:36 - Moving "/usb/torrents/.dot.torrents/Lights.Out.2016.CAM.READNFO.XviD-BiGDADDYVAiN [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:36 - Moving "/usb/torrents/download/old/Lights Out 2016 CAM XviD-UnKnOwN" to /usb/torrents/download/
+2017-08-10 18:36 - Copying "/usb/torrents/.dot.torrents/Lights Out 2016 CAM XviD-UnKnOwN [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:36 - Moving "/usb/torrents/.dot.torrents/Lights Out 2016 CAM XviD-UnKnOwN [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:36 - Moving "/usb/torrents/download/old/Limitless.S01E01.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:36 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E01.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:36 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E01.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:36 - Moving "/usb/torrents/download/old/Limitless.S01E02.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:36 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E02.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:36 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E02.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:36 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 18:41 - Moving "/usb/torrents/download/old/Limitless.S01E03.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:41 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E03.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:41 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E03.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:41 - Moving "/usb/torrents/download/old/Limitless.S01E04.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:41 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E04.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:41 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E04.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:41 - Moving "/usb/torrents/download/old/Limitless.S01E05.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:41 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:41 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:41 - Moving "/usb/torrents/download/old/Limitless.S01E06.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:41 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E06.720p.HDTV.X264-DIMENSION [IPT](11).torrent" to /usb/torrents/watch
+2017-08-10 18:41 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E06.720p.HDTV.X264-DIMENSION [IPT](11).torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:41 - Moving "/usb/torrents/download/old/Limitless.S01E07.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:41 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E07.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:41 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E07.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:41 - Moving "/usb/torrents/download/old/Limitless.S01E08.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:41 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E08.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:41 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E08.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:41 - Moving "/usb/torrents/download/old/Limitless.S01E09.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:41 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E09.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:41 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E09.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:41 - Moving "/usb/torrents/download/old/Limitless.S01E10.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:41 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E10.720p.HDTV.X264-DIMENSION [IPT](12).torrent" to /usb/torrents/watch
+2017-08-10 18:41 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E10.720p.HDTV.X264-DIMENSION [IPT](12).torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:41 - Moving "/usb/torrents/download/old/Limitless.S01E11.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:41 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E11.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:41 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E11.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:41 - Moving "/usb/torrents/download/old/Limitless.S01E12.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:41 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E12.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:41 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E12.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:41 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 18:47 - Moving "/usb/torrents/download/old/Limitless.S01E13.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:47 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E13.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:47 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E13.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:47 - Moving "/usb/torrents/download/old/Limitless.S01E14.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:47 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E14.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:47 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E14.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:47 - Moving "/usb/torrents/download/old/Limitless.S01E15.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:47 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E15.720p.HDTV.X264-DIMENSION [IPT](11).torrent" to /usb/torrents/watch
+2017-08-10 18:47 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E15.720p.HDTV.X264-DIMENSION [IPT](11).torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:47 - Moving "/usb/torrents/download/old/Limitless.S01E16.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:47 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E16.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:47 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E16.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:47 - Moving "/usb/torrents/download/old/Limitless.S01E17.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:47 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E17.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:47 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E17.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:47 - Moving "/usb/torrents/download/old/Limitless.S01E18.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:47 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E18.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:47 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E18.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:47 - Moving "/usb/torrents/download/old/Limitless.S01E20.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:47 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E20.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:47 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E20.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:47 - Moving "/usb/torrents/download/old/Limitless.S01E21.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:47 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E21.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:47 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E21.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:47 - Moving "/usb/torrents/download/old/Limitless.S01E22.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:47 - Copying "/usb/torrents/.dot.torrents/Limitless.S01E22.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:47 - Moving "/usb/torrents/.dot.torrents/Limitless.S01E22.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:47 - Moving "/usb/torrents/download/old/Lockup.S10E06.Highs.and.Lows.iNTERNAL.720p.HEVC.x265-MeGusta" to /usb/torrents/download/
+2017-08-10 18:47 - Copying "/usb/torrents/.dot.torrents/Lockup.S10E06.Highs.and.Lows.iNTERNAL.720p.HEVC.x265-MeGusta.torrent" to /usb/torrents/watch
+2017-08-10 18:47 - Moving "/usb/torrents/.dot.torrents/Lockup.S10E06.Highs.and.Lows.iNTERNAL.720p.HEVC.x265-MeGusta.torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:47 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 18:52 - Moving "/usb/torrents/download/old/Lucifer-Pilot.HDTV.x264-LOL" to /usb/torrents/download/
+2017-08-10 18:52 - Copying "/usb/torrents/.dot.torrents/Lucifer-Pilot.HDTV.x264-LOL [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer-Pilot.HDTV.x264-LOL [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - No DIR_DATA found in Lucifer.S01E00.Pilot.720p.HDTV.x264-TOPKEK.mkv [IPT].torrent
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E00.Pilot.720p.HDTV.x264-TOPKEK.mkv [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - Moving "/usb/torrents/download/old/Lucifer.S01E02.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:52 - Copying "/usb/torrents/.dot.torrents/Lucifer.S01E02.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E02.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - Moving "/usb/torrents/download/old/Lucifer.S01E03.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:52 - Copying "/usb/torrents/.dot.torrents/Lucifer.S01E03.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E03.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - Moving "/usb/torrents/download/old/Lucifer.S01E04.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:52 - Copying "/usb/torrents/.dot.torrents/Lucifer.S01E04.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E04.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - Moving "/usb/torrents/download/old/Lucifer.S01E05.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:52 - Copying "/usb/torrents/.dot.torrents/Lucifer.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E05.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - Moving "/usb/torrents/download/old/Lucifer.S01E06.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:52 - Copying "/usb/torrents/.dot.torrents/Lucifer.S01E06.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E06.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - Moving "/usb/torrents/download/old/Lucifer.S01E07.720p.HDTV.x264-KILLERS" to /usb/torrents/download/
+2017-08-10 18:52 - Copying "/usb/torrents/.dot.torrents/Lucifer.S01E07.720p.HDTV.x264-KILLERS [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E07.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - Moving "/usb/torrents/download/old/Lucifer.S01E08.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:52 - Copying "/usb/torrents/.dot.torrents/Lucifer.S01E08.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E08.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - Moving "/usb/torrents/download/old/Lucifer.S01E10.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:52 - Copying "/usb/torrents/.dot.torrents/Lucifer.S01E10.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E10.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - Moving "/usb/torrents/download/old/Lucifer.S01E11.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:52 - Copying "/usb/torrents/.dot.torrents/Lucifer.S01E11.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:52 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E11.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:52 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 18:57 - Moving "/usb/torrents/download/old/Lucifer.S01E13.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:57 - Copying "/usb/torrents/.dot.torrents/Lucifer.S01E13.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:57 - Moving "/usb/torrents/.dot.torrents/Lucifer.S01E13.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:57 - Moving "/usb/torrents/download/old/Lucifer.S02E01.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:57 - Copying "/usb/torrents/.dot.torrents/Lucifer.S02E01.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:57 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E01.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:57 - Moving "/usb/torrents/download/old/Lucifer.S02E02.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:57 - Copying "/usb/torrents/.dot.torrents/Lucifer.S02E02.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:57 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E02.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:57 - Moving "/usb/torrents/download/old/Lucifer.S02E03.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:57 - Copying "/usb/torrents/.dot.torrents/Lucifer.S02E03.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:57 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E03.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:57 - Moving "/usb/torrents/download/old/Lucifer.S02E04.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:57 - Copying "/usb/torrents/.dot.torrents/Lucifer.S02E04.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:57 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E04.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:57 - Moving "/usb/torrents/download/old/Lucifer.S02E05.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:57 - Copying "/usb/torrents/.dot.torrents/Lucifer.S02E05.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:57 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E05.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:57 - Moving "/usb/torrents/download/old/Lucifer.S02E06.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:57 - Copying "/usb/torrents/.dot.torrents/Lucifer.S02E06.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:57 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E06.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:57 - Moving "/usb/torrents/download/old/Lucifer.S02E07.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:57 - Copying "/usb/torrents/.dot.torrents/Lucifer.S02E07.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:57 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E07.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:57 - Moving "/usb/torrents/download/old/Lucifer.S02E08.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:57 - Copying "/usb/torrents/.dot.torrents/Lucifer.S02E08.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:57 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E08.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:57 - Moving "/usb/torrents/download/old/Lucifer.S02E09.720p.HDTV.X264-DIMENSION" to /usb/torrents/download/
+2017-08-10 18:57 - Copying "/usb/torrents/.dot.torrents/Lucifer.S02E09.720p.HDTV.X264-DIMENSION [IPT].torrent" to /usb/torrents/watch
+2017-08-10 18:57 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E09.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 18:57 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 19:03 - Starting Script
+2017-08-10 19:03 - Moving /usb/torrents/download/old/Lucifer.S02E10.720p.HDTV.X264-DIMENSION to /usb/torrents/download
+2017-08-10 19:03 - Copying /usb/torrents/.dot.torrents/Lucifer.S02E10.720p.HDTV.X264-DIMENSION [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:03 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E10.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:03 - Moving /usb/torrents/download/old/Lucifer.S02E11.720p.HDTV.X264-DIMENSION to /usb/torrents/download
+2017-08-10 19:03 - Copying /usb/torrents/.dot.torrents/Lucifer.S02E11.720p.HDTV.X264-DIMENSION [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:03 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E11.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:03 - Moving /usb/torrents/download/old/Lucifer.S02E12.720p.HDTV.X264-DIMENSION to /usb/torrents/download
+2017-08-10 19:03 - Copying /usb/torrents/.dot.torrents/Lucifer.S02E12.720p.HDTV.X264-DIMENSION [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:03 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E12.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:03 - Moving /usb/torrents/download/old/Lucifer.S02E13.720p.HDTV.X264-DIMENSION to /usb/torrents/download
+2017-08-10 19:03 - Copying /usb/torrents/.dot.torrents/Lucifer.S02E13.720p.HDTV.X264-DIMENSION [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:03 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E13.720p.HDTV.X264-DIMENSION [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:03 - Moving /usb/torrents/download/old/Lucifer.S02E14.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:03 - Copying /usb/torrents/.dot.torrents/Lucifer.S02E14.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:03 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E14.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:03 - Moving /usb/torrents/download/old/Lucifer.S02E15.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:03 - Copying /usb/torrents/.dot.torrents/Lucifer.S02E15.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:03 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E15.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:03 - Moving /usb/torrents/download/old/Lucifer.S02E16.REPACK.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:03 - Copying /usb/torrents/.dot.torrents/Lucifer.S02E16.REPACK.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:03 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E16.REPACK.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:03 - Moving /usb/torrents/download/old/Lucifer.S02E17.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:03 - Copying /usb/torrents/.dot.torrents/Lucifer.S02E17.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:03 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E17.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:03 - Moving /usb/torrents/download/old/Lucifer.S02E18.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:03 - Copying /usb/torrents/.dot.torrents/Lucifer.S02E18.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:03 - Moving "/usb/torrents/.dot.torrents/Lucifer.S02E18.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:03 - Moving /usb/torrents/download/old/Mechanic.2.Resurrection.HDTS.x264-VAiN to /usb/torrents/download
+2017-08-10 19:03 - Copying /usb/torrents/.dot.torrents/Mechanic.2.Resurrection.HDTS.x264-VAiN [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:03 - Moving "/usb/torrents/.dot.torrents/Mechanic.2.Resurrection.HDTS.x264-VAiN [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:03 - Sleeping now.. Max torrents per interval added. (10 per 300 seconds)
+2017-08-10 19:06 - Starting Script
+2017-08-10 19:06 - Moving /usb/torrents/download/old/Midnight.Texas.S01E01.1080p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:06 - Copying /usb/torrents/.dot.torrents/Midnight.Texas.S01E01.1080p.HEVC.x265-MeGusta.torrent to /usb/torrents/watch
+2017-08-10 19:06 - Moving "/usb/torrents/.dot.torrents/Midnight.Texas.S01E01.1080p.HEVC.x265-MeGusta.torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:06 - Moving /usb/torrents/download/old/Midnight.Texas.S01E01.720p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:06 - Copying /usb/torrents/.dot.torrents/Midnight.Texas.S01E01.720p.HEVC.x265-MeGusta.torrent to /usb/torrents/watch
+2017-08-10 19:06 - Moving "/usb/torrents/.dot.torrents/Midnight.Texas.S01E01.720p.HEVC.x265-MeGusta.torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:06 - Moving /usb/torrents/download/old/Midnight.Texas.S01E02.1080p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:06 - Copying /usb/torrents/.dot.torrents/Midnight.Texas.S01E02.1080p.HEVC.x265-MeGusta.torrent to /usb/torrents/watch
+2017-08-10 19:06 - Moving "/usb/torrents/.dot.torrents/Midnight.Texas.S01E02.1080p.HEVC.x265-MeGusta.torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:06 - Moving /usb/torrents/download/old/Midnight.Texas.S01E03.1080p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:06 - Copying /usb/torrents/.dot.torrents/Midnight.Texas.S01E03.1080p.HEVC.x265-MeGusta.torrent to /usb/torrents/watch
+2017-08-10 19:06 - Moving "/usb/torrents/.dot.torrents/Midnight.Texas.S01E03.1080p.HEVC.x265-MeGusta.torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:06 - Moving /usb/torrents/download/old/Midnight.Texas.S01E03.1080p.WEB.x264-TBS to /usb/torrents/download
+2017-08-10 19:06 - Copying /usb/torrents/.dot.torrents/Midnight.Texas.S01E03.1080p.WEB.x264-TBS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:06 - Moving "/usb/torrents/.dot.torrents/Midnight.Texas.S01E03.1080p.WEB.x264-TBS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:06 - Sleeping now.. Max torrents per interval added. (5 per 150 seconds)
+2017-08-10 19:08 - Starting Script
+2017-08-10 19:08 - No DIR_DATA found in Minority.Report.S01E00.Pilot.720p.HDTV.x264-TOPKEK.mkv [IPT].torrent
+2017-08-10 19:08 - Moving "/usb/torrents/.dot.torrents/Minority.Report.S01E00.Pilot.720p.HDTV.x264-TOPKEK.mkv [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:08 - Moving /usb/torrents/download/old/Money.Monster.2016.HQCAM.x264-COX to /usb/torrents/download
+2017-08-10 19:08 - Copying /usb/torrents/.dot.torrents/Money.Monster.2016.HQCAM.x264-COX [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:08 - Moving "/usb/torrents/.dot.torrents/Money.Monster.2016.HQCAM.x264-COX [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:08 - No DIR_DATA found in Mothers Day 2016 720p READ.NFO WEB-DL X264 - BOLACHINHASNUKUZINHO [IPT].torrent
+2017-08-10 19:08 - Moving "/usb/torrents/.dot.torrents/Mothers Day 2016 720p READ.NFO WEB-DL X264 - BOLACHINHASNUKUZINHO [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:08 - Moving /usb/torrents/download/old/Mother's Day 2016  HDCAM x264 AAC-Exclusive to /usb/torrents/download
+2017-08-10 19:08 - Copying /usb/torrents/.dot.torrents/Mother's Day 2016  HDCAM x264 AAC-Exclusive [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:08 - Moving "/usb/torrents/.dot.torrents/Mother's Day 2016  HDCAM x264 AAC-Exclusive [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:08 - Moving /usb/torrents/download/old/Mr.Robot.S01E02.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:08 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S01E02.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:08 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S01E02.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:08 - Moving /usb/torrents/download/old/Mr.Robot.S01E03.720p.HDTV.x264-IMMERSE to /usb/torrents/download
+2017-08-10 19:08 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S01E03.720p.HDTV.x264-IMMERSE [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:08 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S01E03.720p.HDTV.x264-IMMERSE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:08 - Moving /usb/torrents/download/old/Mr.Robot.S01E04.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:08 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S01E04.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:08 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S01E04.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:08 - Sleeping now.. Max torrents per interval added. (5 per 150 seconds)
+2017-08-10 19:10 - Moving /usb/torrents/download/old/Mr.Robot.S01E05.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:10 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S01E05.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:10 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S01E05.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:10 - Moving /usb/torrents/download/old/Mr.Robot.S01E06.720p.HDTV.x264-IMMERSE to /usb/torrents/download
+2017-08-10 19:10 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S01E06.720p.HDTV.x264-IMMERSE [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:10 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S01E06.720p.HDTV.x264-IMMERSE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:10 - Moving /usb/torrents/download/old/Mr.Robot.S01E07.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:10 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S01E07.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:10 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S01E07.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:10 - Moving /usb/torrents/download/old/Mr.Robot.S01E08.REAL.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:10 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S01E08.REAL.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:10 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S01E08.REAL.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:10 - Moving /usb/torrents/download/old/Mr.Robot.S01E09.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:10 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S01E09.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:10 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S01E09.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:10 - Sleeping now.. Max torrents per interval added. (5 per 150 seconds)
+2017-08-10 19:13 - Moving /usb/torrents/download/old/Mr.Robot.S01E10.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:13 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S01E10.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:13 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S01E10.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:13 - Moving /usb/torrents/download/old/Mr.Robot.S02E01.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:13 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E01.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:13 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E01.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:13 - Moving /usb/torrents/download/old/Mr.Robot.S02E02.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:13 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E02.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:13 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E02.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:13 - Moving /usb/torrents/download/old/Mr.Robot.S02E03.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:13 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E03.720p.HDTV.x264-KILLERS [IPT](10).torrent to /usb/torrents/watch
+2017-08-10 19:13 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E03.720p.HDTV.x264-KILLERS [IPT](10).torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:13 - Moving /usb/torrents/download/old/Mr.Robot.S02E04.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:13 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E04.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:13 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E04.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:13 - Sleeping now.. Max torrents per interval added. (5 per 150 seconds)
+2017-08-10 19:15 - Moving /usb/torrents/download/old/Mr.Robot.S02E05.720p.HDTV.x264-FLEET to /usb/torrents/download
+2017-08-10 19:15 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E05.720p.HDTV.x264-FLEET [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:15 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E05.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:15 - Moving /usb/torrents/download/old/Mr.Robot.S02E06.720p.HDTV.x264-FLEET to /usb/torrents/download
+2017-08-10 19:15 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E06.720p.HDTV.x264-FLEET [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:15 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E06.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:15 - Moving /usb/torrents/download/old/Mr.Robot.S02E07.720p.HDTV.x264-FLEET to /usb/torrents/download
+2017-08-10 19:15 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E07.720p.HDTV.x264-FLEET [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:15 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E07.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:15 - Moving /usb/torrents/download/old/Mr.Robot.S02E09.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:15 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E09.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:15 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E09.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:15 - Moving /usb/torrents/download/old/Mr.Robot.S02E10.PROPER.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:15 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E10.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:15 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E10.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:15 - Sleeping now.. Max torrents per interval added. (5 per 150 seconds)
+2017-08-10 19:18 - Moving /usb/torrents/download/old/Mr.Robot.S02E11.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:18 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E11.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:18 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E11.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:18 - Moving /usb/torrents/download/old/Mr.Robot.S02E12.720p.HDTV.x264-FLEET to /usb/torrents/download
+2017-08-10 19:18 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E12.720p.HDTV.x264-FLEET [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:18 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E12.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:18 - Moving /usb/torrents/download/old/Mr.Robot.S02E12.PROPER.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:18 - Copying /usb/torrents/.dot.torrents/Mr.Robot.S02E12.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:18 - Moving "/usb/torrents/.dot.torrents/Mr.Robot.S02E12.PROPER.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:18 - No DIR_DATA found in Now.You.See.Me.2.2016.English.HDCAM.x264-iRENka [IPT].torrent
+2017-08-10 19:18 - Moving "/usb/torrents/.dot.torrents/Now.You.See.Me.2.2016.English.HDCAM.x264-iRENka [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:18 - Moving /usb/torrents/download/old/Orphan.Black.S04E01.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:18 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S04E01.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:18 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S04E01.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:18 - Moving /usb/torrents/download/old/Orphan.Black.S04E02.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:18 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S04E02.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:18 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S04E02.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:18 - Sleeping now.. Max torrents per interval added. (5 per 150 seconds)
+2017-08-10 19:20 - Starting Script
+2017-08-10 19:20 - STEP 1: Moving /usb/torrents/download/old/Orphan.Black.S04E03.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:20 - STEP 2: Copying /usb/torrents/.dot.torrents/Orphan.Black.S04E03.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:20 - STEP 3: Moving "/usb/torrents/.dot.torrents/Orphan.Black.S04E03.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:20 - STEP 1: Moving /usb/torrents/download/old/Orphan.Black.S04E04.720p.HDTV.x264-FLEET to /usb/torrents/download
+2017-08-10 19:20 - STEP 2: Copying /usb/torrents/.dot.torrents/Orphan.Black.S04E04.720p.HDTV.x264-FLEET [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:20 - STEP 3: Moving "/usb/torrents/.dot.torrents/Orphan.Black.S04E04.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:20 - No DIR_DATA found in Orphan Black S04E04 720p HDTV x264-REMO [IPT].torrent
+2017-08-10 19:20 - STEP 3: Moving "/usb/torrents/.dot.torrents/Orphan Black S04E04 720p HDTV x264-REMO [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:20 - STEP 1: Moving /usb/torrents/download/old/Orphan.Black.S04E04.INTERNAL.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:20 - STEP 2: Copying /usb/torrents/.dot.torrents/Orphan.Black.S04E04.INTERNAL.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:20 - STEP 3: Moving "/usb/torrents/.dot.torrents/Orphan.Black.S04E04.INTERNAL.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:20 - STEP 1: Moving /usb/torrents/download/old/Orphan.Black.S04E05.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:20 - STEP 2: Copying /usb/torrents/.dot.torrents/Orphan.Black.S04E05.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:20 - STEP 3: Moving "/usb/torrents/.dot.torrents/Orphan.Black.S04E05.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:20 - STEP 1: Moving /usb/torrents/download/old/Orphan.Black.S04E06.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:20 - STEP 2: Copying /usb/torrents/.dot.torrents/Orphan.Black.S04E06.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:20 - STEP 3: Moving "/usb/torrents/.dot.torrents/Orphan.Black.S04E06.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:20 - Sleeping now.. Max torrents per interval added. (5 per 150 seconds)
+2017-08-10 19:22 - Starting Script
+2017-08-10 19:22 - STEP 1: Moving /usb/torrents/download/old/Orphan.Black.S04E06.720p.HDTV.x264-FLEET to /usb/torrents/download
+2017-08-10 19:22 - STEP 2: Copying /usb/torrents/.dot.torrents/Orphan.Black.S04E06.720p.HDTV.x264-FLEET [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:22 - STEP 3: Moving "/usb/torrents/.dot.torrents/Orphan.Black.S04E06.720p.HDTV.x264-FLEET [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:22 - Sleeping now.. Max torrents per interval added. (1 per 30 seconds)
+2017-08-10 19:24 - Starting Script
+2017-08-10 19:24 - === Proper Torrent Detected ===
+2017-08-10 19:24 - Moving /usb/torrents/download/old/Orphan.Black.S04E08.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:24 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S04E08.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:24 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S04E08.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:24 - Sleeping now.. Max torrents per interval added. (1 per 30 seconds)
+2017-08-10 19:24:1502411086 - Starting Script
+2017-08-10 19:24:1502411086 - === Proper Torrent Detected ===
+2017-08-10 19:24:1502411086 - Moving /usb/torrents/download/old/Orphan.Black.S04E10.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:24:1502411086 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S04E10.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:24:1502411087 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S04E10.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:24:1502411087 - Sleeping now.. Max torrents per interval added. (1 per 30 seconds)
+2017-08-10 19:24:52 - Starting Script
+2017-08-10 19:24:52 - === Proper Torrent Detected ===
+2017-08-10 19:24:52 - Moving /usb/torrents/download/old/Orphan.Black.S05E01.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:24:52 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E01.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:24:52 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E01.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:24:52 - Sleeping now.. Max torrents per interval added. (1 per 30 seconds)
+2017-08-10 19:25:22 - === Proper Torrent Detected ===
+2017-08-10 19:25:22 - Moving /usb/torrents/download/old/Orphan.Black.S05E01.720p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:25:22 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E01.720p.HEVC.x265-MeGusta [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:25:22 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E01.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:25:22 - Sleeping now.. Max torrents per interval added. (1 per 30 seconds)
+2017-08-10 19:26:22 - Starting Script
+2017-08-10 19:26:22 - === Proper Torrent Detected ===
+2017-08-10 19:26:22 - Moving /usb/torrents/download/old/Orphan.Black.S05E02.720p.HDTV.x264-KILLERS to /usb/torrents/download
+2017-08-10 19:26:22 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E02.720p.HDTV.x264-KILLERS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:26:22 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E02.720p.HDTV.x264-KILLERS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:26:22 - === Proper Torrent Detected ===
+2017-08-10 19:26:22 - Moving /usb/torrents/download/old/Orphan.Black.S05E02.720p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:26:22 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E02.720p.HEVC.x265-MeGusta [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:26:22 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E02.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:26:22 - === Proper Torrent Detected ===
+2017-08-10 19:26:22 - Moving /usb/torrents/download/old/Orphan.Black.S05E04.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:26:22 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E04.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:26:22 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E04.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:26:23 - === Proper Torrent Detected ===
+2017-08-10 19:26:23 - Moving /usb/torrents/download/old/Orphan.Black.S05E04.720p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:26:23 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E04.720p.HEVC.x265-MeGusta [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:26:23 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E04.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:26:23 - === Proper Torrent Detected ===
+2017-08-10 19:26:23 - Moving /usb/torrents/download/old/Orphan.Black.S05E05.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:26:23 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E05.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:26:23 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E05.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:26:23 - Sleeping now.. Max torrents per interval added. (5 per 120 seconds)
+2017-08-10 19:33:12 - Starting Script
+2017-08-10 19:33:12 - === Proper Torrent Detected ===
+2017-08-10 19:33:12 - Moving /usb/torrents/download/old/Orphan.Black.S05E05.720p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:33:12 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E05.720p.HEVC.x265-MeGusta [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:33:12 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E05.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:33:13 - === Proper Torrent Detected ===
+2017-08-10 19:33:13 - Moving /usb/torrents/download/old/Orphan.Black.S05E06.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:33:13 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E06.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:33:13 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E06.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:33:13 - === Proper Torrent Detected ===
+2017-08-10 19:33:13 - Moving /usb/torrents/download/old/Orphan.Black.S05E06.720p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:33:13 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E06.720p.HEVC.x265-MeGusta [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:33:13 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E06.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:33:13 - === Proper Torrent Detected ===
+2017-08-10 19:33:13 - Moving /usb/torrents/download/old/Orphan.Black.S05E07.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:33:13 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E07.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:33:13 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E07.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:33:13 - === Proper Torrent Detected ===
+2017-08-10 19:33:13 - Moving /usb/torrents/download/old/Orphan.Black.S05E07.720p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:33:13 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E07.720p.HEVC.x265-MeGusta [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:33:13 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E07.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:33:13 - Sleeping now.. Max torrents per interval added. (5 per 120 seconds) - Next run at 2017-08-10 19:33:13
+2017-08-10 19:44:04 - Starting Script
+2017-08-10 19:44:04 - === Proper Torrent Detected ===
+2017-08-10 19:44:04 - Moving /usb/torrents/download/old/Orphan.Black.S05E08.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:44:04 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E08.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:44:04 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E08.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:44:04 - === Proper Torrent Detected ===
+2017-08-10 19:44:04 - Moving /usb/torrents/download/old/Orphan.Black.S05E08.720p.HEVC.x265-MeGusta to /usb/torrents/download
+2017-08-10 19:44:04 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E08.720p.HEVC.x265-MeGusta [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:44:04 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E08.720p.HEVC.x265-MeGusta [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:44:04 - === Proper Torrent Detected ===
+2017-08-10 19:44:04 - Moving /usb/torrents/download/old/Orphan.Black.S05E09.1080p.WEBRip.x264-STRiFE to /usb/torrents/download
+2017-08-10 19:44:04 - Copying /usb/torrents/.dot.torrents/Orphan.Black.S05E09.1080p.WEBRip.x264-STRiFE [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:44:04 - Moving "/usb/torrents/.dot.torrents/Orphan.Black.S05E09.1080p.WEBRip.x264-STRiFE [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:44:05 - === Proper Torrent Detected ===
+2017-08-10 19:44:05 - Moving /usb/torrents/download/old/Outsiders.2016.S02E04.720p.HDTV.x264-SVA to /usb/torrents/download
+2017-08-10 19:44:05 - Copying /usb/torrents/.dot.torrents/Outsiders.2016.S02E04.720p.HDTV.x264-SVA [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:44:05 - Moving "/usb/torrents/.dot.torrents/Outsiders.2016.S02E04.720p.HDTV.x264-SVA [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:44:05 - === Proper Torrent Detected ===
+2017-08-10 19:44:05 - Moving /usb/torrents/download/old/Outsiders.2016.S02E05.720p.HDTV.x264-AVS to /usb/torrents/download
+2017-08-10 19:44:05 - Copying /usb/torrents/.dot.torrents/Outsiders.2016.S02E05.720p.HDTV.x264-AVS [IPT].torrent to /usb/torrents/watch
+2017-08-10 19:44:05 - Moving "/usb/torrents/.dot.torrents/Outsiders.2016.S02E05.720p.HDTV.x264-AVS [IPT].torrent" to /home/dcorrigan/torrent-migrate/migrated.dot.torrents
+2017-08-10 19:44:05 - Sleeping now.. Max torrents per interval added. (5 per 120 seconds) - Next run at 2017-08-10 19:44:35

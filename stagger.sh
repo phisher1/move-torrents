@@ -12,10 +12,10 @@ watch_dir="/usb/torrents/watch"
 download_dir="/usb/torrents/download"
 
 # maximum number of torrents to add per the interval
-max_per_interval=10
+max_per_interval=5
 
 # internal at which it should add the above number of torrents in seconds
-interval=300
+interval=120
 
 # logfile
 log_file=migrate.log
@@ -30,7 +30,11 @@ move_torrent_dir=/home/dcorrigan/torrent-migrate/migrated.dot.torrents
 ## functions
 # get time
 get_time () {
-   date=`date +"%Y-%m-%d %H:%M"`
+   if [[ $1 == "next_run" ]]; then
+      date=$(date -d "+ 30 seconds" +'%Y-%m-%d %H:%M:%S')
+   else
+      date=`date +"%Y-%m-%d %H:%M:%S"`
+   fi
    echo ${date}
 }
 
@@ -63,15 +67,17 @@ ls -l ${dot_torrents_dir} |grep -v "total"| cut -c51-1000|while read torrent; do
          log_and_echo "$old_dir_name was not found -  ${torrent}"
          if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
       else
-         log_and_echo "Moving \"${old_dir_name}\" to ${download_dir}/"
-         mv "${old_dir_name}" ${download_dir}/
-         log_and_echo "Copying \"${dot_torrents_dir}/${torrent}\" to ${watch_dir}"
+         log_and_echo "=== Proper Torrent Detected ==="
+         log_and_echo "Moving ${old_dir_name} to ${download_dir}"
+         mv "${old_dir_name}" ${download_dir}
+         log_and_echo "Copying ${dot_torrents_dir}/${torrent} to ${watch_dir}"
          cp "${dot_torrents_dir}/${torrent}" ${watch_dir}
          if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
          filecount=$(($filecount+1))
          if [[ ${filecount} -eq ${max_per_interval} ]]; then
             torrentcount=$(($torrentcount+1))
-            log_and_echo "Sleeping now.. Max torrents per interval added. ($max_per_interval per $interval seconds)"
+            next_run_time=`get_time next_run`
+            log_and_echo "Max Torrent/Seconds - ($max_per_interval/$interval) - Next run at ${next_run_time}"
             sleep ${interval}
             filecount=0
          fi
