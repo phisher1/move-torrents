@@ -12,10 +12,10 @@ watch_dir="/usb/torrents/watch"
 download_dir="/usb/torrents/download"
 
 # maximum number of torrents to add per the interval
-max_per_interval=5
+max_per_interval=10
 
 # internal at which it should add the above number of torrents in seconds
-interval=120
+interval=300
 
 # logfile
 log_file=migrate.log
