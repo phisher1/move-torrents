@@ -3,10 +3,13 @@
 # set these variables
 
 # location of dir with .torrents
-dot_torrents_dir="/usb/torrents/.dot.torrents"
+dot_torrents_dir="/home/dcorrigan/torrent-migrate/torrents_from_0831"
 
 # location of watch dir
 watch_dir="/usb/torrents/watch"
+
+# location of downloaded torrent data
+source_download_dir="/usb/torrents/download/old"
 
 # location of download dir of torrent program
 download_dir="/usb/torrents/download"
@@ -21,7 +24,7 @@ interval=300
 log_file=migrate.log
 
 # move .torrent from original directory after adding to watch?
-move_torrent=1
+move_torrent=0
 
 # if move_torrent is enabled, directory to move .torrent file to
 move_torrent_dir=/home/dcorrigan/torrent-migrate/migrated.dot.torrents
@@ -56,13 +59,13 @@ move_torrent () {
 torrentcount=1
 filecount=0
 log_and_echo "Starting Script"
-ls -l ${dot_torrents_dir} |grep -v "total"| cut -c51-1000|while read torrent; do
+ls -l ${dot_torrents_dir} |grep -v "total"| cut -c54-1000|while read torrent; do
    torrent_dir_name=`./torrent_dir_name.py "${dot_torrents_dir}/${torrent}"`
    if [ -z "${torrent_dir_name}" ] ; then
       log_and_echo "No DIR_DATA found in ${torrent}"
       if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
    else
-      old_dir_name=`find ${download_dir}/old -maxdepth 1 -name "${torrent_dir_name}"`
+      old_dir_name=`find ${source_download_dir} -maxdepth 1 -name "${torrent_dir_name}"`
       if [ -z "$old_dir_name" ]; then
          log_and_echo "$old_dir_name was not found -  ${torrent}"
          if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
