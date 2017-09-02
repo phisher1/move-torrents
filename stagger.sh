@@ -24,7 +24,7 @@ interval=300
 log_file=migrate.log
 
 # move .torrent from original directory after adding to watch?
-move_torrent=0
+move_torrent=1
 
 # if move_torrent is enabled, directory to move .torrent file to
 move_torrent_dir=/home/dcorrigan/torrent-migrate/migrated.dot.torrents
@@ -52,7 +52,7 @@ log_and_echo () {
 move_torrent () {
    torrent=$1
    log_and_echo "Moving \"${dot_torrents_dir}/$torrent\" to ${move_torrent_dir}"
-   mv "${dot_torrents_dir}/$torrent" ${move_torrent_dir}
+   mv -f "${dot_torrents_dir}/$torrent" ${move_torrent_dir}
 }
 
 ## script
@@ -72,7 +72,7 @@ ls -l ${dot_torrents_dir} |grep -v "total"| cut -c54-1000|while read torrent; do
       else
          log_and_echo "=== Proper Torrent Detected ==="
          log_and_echo "Moving ${old_dir_name} to ${download_dir}"
-         mv "${old_dir_name}" ${download_dir}
+         mv -v "${old_dir_name}" ${download_dir}
          log_and_echo "Copying ${dot_torrents_dir}/${torrent} to ${watch_dir}"
          cp "${dot_torrents_dir}/${torrent}" ${watch_dir}
          if [[ ${move_torrent} -eq 1 ]]; then move_torrent "${torrent}"; fi
